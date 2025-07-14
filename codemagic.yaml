@@ -1,0 +1,46 @@
+workflows:
+  ios-simulator-demo:
+    name: iOS Simulator Build with Firebase Fix
+    max_build_duration: 30
+    environment:
+      flutter: stable
+      xcode: latest
+
+    cache:
+      cache_paths:
+        - $HOME/.pub-cache
+        - ios/Pods
+        - ios/.symlinks
+        - ios/Flutter
+
+    scripts:
+      - name: Clean and fetch
+        script: |
+          flutter clean
+          rm -rf ios/Pods ios/.symlinks ios/Runner.xcworkspace ios/Podfile.lock pubspec.lock
+          flutter pub get
+
+      - name: Set iOS version to 15.5
+        script: |
+          sed -i '' 's/platform :ios.*/platform :ios, '\''15.5'\''/' ios/Podfile || true
+
+      - name: Pre-cache Flutter iOS artifacts
+        script: flutter precache --ios
+
+      - name: Generate iOS Flutter config (important!)
+        script: flutter build ios --debug --no-codesign
+
+      - name: Install CocoaPods
+        script: |
+          cd ios
+          pod install --repo-update
+          cd ..
+
+      - name: Generate localization files
+        script: flutter gen-l10n
+
+      - name: Build iOS simulator app
+        script: flutter build ios --simulator
+
+    artifacts:
+      - build/ios/iphonesimulator/*.app

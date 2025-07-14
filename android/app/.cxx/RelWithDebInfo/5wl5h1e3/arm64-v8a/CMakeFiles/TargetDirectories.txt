@@ -1,0 +1,2 @@
+D:/nextwys/final_copcup/Cop-Cup/android/app/.cxx/RelWithDebInfo/5wl5h1e3/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/nextwys/final_copcup/Cop-Cup/android/app/.cxx/RelWithDebInfo/5wl5h1e3/arm64-v8a/CMakeFiles/rebuild_cache.dir

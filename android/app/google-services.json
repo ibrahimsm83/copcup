@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "452185459849",
+    "project_id": "cop-cup",
+    "storage_bucket": "cop-cup.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452185459849:android:aa7afef90e3650b2198a58",
+        "android_client_info": {
+          "package_name": "com.ethan.copcup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452185459849-ej36c6tc6adavuro7sfbj8e7aokc6i3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq4UF4_j6dOVU7uyHZiiMF58v76aO9RBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452185459849-ej36c6tc6adavuro7sfbj8e7aokc6i3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452185459849-7q2rivb7f3736nbmfr0k8j7c08p4f5qt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sqfilte.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

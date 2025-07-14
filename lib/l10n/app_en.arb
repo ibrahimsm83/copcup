@@ -1,0 +1,1677 @@
+{
+  "@@locale": "en",
+  "getStartedMainTitle": "Discover Existing\nEvents Near You",
+  "@getStartedMainTitle": {
+    "description": "Main title displayed on the Get Started screen."
+  },
+  "getStartedSubtitleText": "From food festivals to live music, explore\n a variety of events happening around\n you. Tailor your experience by selecting\n your favorite event categories.",
+  "@getStartedSubtitleText": {
+    "description": "Subtitle text displayed below the main title on the Get Started screen."
+  },
+  "nextButton": "Next",
+  "@nextButton": {
+    "description": "Text for the next button."
+  },
+  "na_categories": "Categories",
+"@na_categories": {
+  "description": "Label for a section displaying different categories."
+}
+,
+  "letsGetStarted": "Let’s Get Started",
+  "@letsGetStarted": {
+    "description": "Title text on the role selection screen."
+  },
+  "pleaseSelectYourRole": "Please Select Your Role!",
+  "@pleaseSelectYourRole": {
+    "description": "Subtitle prompting the user to select a role."
+  },
+  "roleUser": "User",
+  "@roleUser": {
+    "description": "Label for the User role."
+  },
+  "na_useConfirmationToken": "Use confirmation token",
+"@na_useConfirmationToken": {
+  "description": "Prompt or instruction to use a confirmation token for verification."
+}
+,
+"na_verificationThankYou": "for verification. Thank you for your purchase!",
+"@na_verificationThankYou": {
+  "description": "Message confirming that a verification step is complete and thanking the user for their purchase."
+}
+,
+  "role_seller": "Seller",
+  "@role_seller": {
+    "description": "Label for the seller role."
+  },
+  "roleProfessional": "Professional",
+  "@roleProfessional": {
+    "description": "Label for the Professional role."
+  },
+  "roleResponsible": "Responsible",
+  "@roleResponsible": {
+    "description": "Label for the Responsible role."
+  },
+  "selectRoleError": "Please select your role before proceeding.",
+  "@selectRoleError": {
+    "description": "Error message when no role is selected and the user presses Next."
+  },
+  "na_enrolled": "Enrolled",
+  "@na_enrolled": {
+    "description": "Indicates that the user is successfully registered or signed up for something (e.g., a course, service, or event)."
+  },
+   "na_noSellerFound": "No seller found",
+  "@na_noSellerFound": {
+    "description": "Displayed when no seller is available or matched in the system."
+  },
+  "diveIntoAccount": "Let’s dive into your account!",
+  "@diveIntoAccount": {
+    "description": "Subtitle encouraging the user to sign in to their account."
+  },
+  "continueWithGoogle": "Continue with Google",
+  "@continueWithGoogle": {
+    "description": "Text for the Google sign-in button."
+  },
+  "continueWithApple": "Continue with Apple",
+  "@continueWithApple": {
+    "description": "Text for the Apple sign-in button."
+  },
+  "signUp": "Sign up",
+  "@signUp": {
+    "description": "Text for the sign-up button."
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Text for the login button."
+  },
+  "signInTitle": "Let’s Sign In.!",
+  "@signInTitle": {
+    "description": "Main title displayed on the Sign In screen."
+  },
+  "signInSubtitle": "Fill the information to login account!",
+  "@signInSubtitle": {
+    "description": "Subtitle text displayed below the main title on the Sign In screen."
+  },
+  "emailHint": "Email",
+  "@emailHint": {
+    "description": "Placeholder text for the email input field."
+  },
+  "passwordHint": "Password",
+  "@passwordHint": {
+    "description": "Placeholder text for the password input field."
+  },
+  "rememberMe": "Remember Me",
+  "@rememberMe": {
+    "description": "Label for the Remember Me checkbox."
+  },
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Text for the Forgot Password button."
+  },
+  "signInButton": "Sign In",
+  "@signInButton": {
+    "description": "Text for the Sign In button."
+  },
+  "continueWithText": "Or Continue With",
+  "@continueWithText": {
+    "description": "Text displayed above the social sign-in buttons."
+  },
+  "forgotPasswordTitle": "Forget Password",
+  "@forgotPasswordTitle": {
+    "description": "Title of the Forgot Password page."
+  },
+  "forgotPasswordInstruction": "Select which contact details should we use to reset your password",
+  "@forgotPasswordInstruction": {
+    "description": "Instruction text on the Forgot Password page, prompting the user to select a contact method."
+  },
+  "viaEmail": "Via Email",
+  "@viaEmail": {
+    "description": "Label for the email contact option."
+  },
+  "viaSms": "Via SMS",
+  "@viaSms": {
+    "description": "Label for the SMS contact option."
+  },
+  "emailContactExample": "priscilla.frank26@gmail.com",
+  "@emailContactExample": {
+    "description": "Example email address displayed for the email contact option."
+  },
+  "smsContactExample": "(+1) 480-894-5529",
+  "@smsContactExample": {
+    "description": "Example phone number displayed for the SMS contact option."
+  },
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Text for the Continue button."
+  },
+  "otpVerificationTitle": "OTP Verification",
+  "@otpVerificationTitle": {
+    "description": "Title of the OTP Verification page."
+  },
+  "otpVerificationInstruction": "We sent a reset link to your email, enter 4 digit code that mentioned in the email",
+  "@otpVerificationInstruction": {
+    "description": "Instruction text on the OTP Verification page."
+  },
+  "verifyButtonText": "Verify",
+  "@verifyButtonText": {
+    "description": "Text for the Verify button."
+  },
+  "invalidOtpMessage": "Please enter a 4-digit OTP.",
+  "@invalidOtpMessage": {
+    "description": "Error message shown when the user enters an invalid OTP."
+  },
+  "signUpTitle": "Let’s Sign Up.!",
+  "@signUpTitle": {
+    "description": "Main title for the Sign Up screen."
+  },
+  "signUpSubtitle": "Fill the information to Create account!",
+  "@signUpSubtitle": {
+    "description": "Subtitle text on the Sign Up screen."
+  },
+  "nameHint": "Name",
+  "@nameHint": {
+    "description": "Placeholder for the name input field."
+  },
+  "resetPasswordTitle": "Reset Password",
+  "@resetPasswordTitle": {
+    "description": "Title for the reset password page"
+  },
+  "resetPasswordDescription": "Reset your password to regain access to your account.",
+  "@resetPasswordDescription": {
+    "description": "Description text for the reset password page"
+  },
+  "newPasswordHint": "Enter your new password",
+  "@newPasswordHint": {
+    "description": "Hint text for the new password field"
+  },
+  "confirmPasswordLabel": "Confirm your password",
+  "@confirmPasswordLabel": {
+    "description": "Label for the confirm password field"
+  },
+  "resetPasswordButton": "Reset Password",
+  "@resetPasswordButton": {
+    "description": "Text for the reset password button"
+  },
+  "surNameHint": "Sur Name",
+  "@surNameHint": {
+    "description": "Placeholder for the surname input field."
+  },
+  "countryHint": "(+1) 724-848-1225",
+  "@countryHint": {
+    "description": "Placeholder for the country input field."
+  },
+  "changePasswordTitle": "Change Password",
+  "@changePasswordTitle": {
+    "description": "Title of the Change Password page."
+  },
+  "oldPasswordLabel": "Old Password",
+  "@oldPasswordLabel": {
+    "description": "Label for the old password input field."
+  },
+  "newPasswordLabel": "New Password",
+  "@newPasswordLabel": {
+    "description": "Label for the new password input field."
+  },
+  "confirmPasswordLabels": "Re-enter Password",
+  "@confirmPasswordLabels": {
+    "description": "Label for the confirm password input field."
+  },
+  "changePasswordButton": "Change Password",
+  "@changePasswordButton": {
+    "description": "Text for the Change Password button."
+  },
+  "congratulationsText": "Congratulations",
+  "@congratulationsText": {
+    "description": "Title for the success dialog after changing the password."
+  },
+  "accountReadyMessage": "Your Account is Ready to Use. You will be",
+  "@accountReadyMessage": {
+    "description": "Message displayed in the success dialog after changing the password."
+  },
+  "redirectedText": "redirected to the Home Page in a Few",
+  "@redirectedText": {
+    "description": "Redirected Message"
+  },
+  "secondsText": "Seconds.",
+  "@secondsText": {
+    "description": "Seconds Text"
+  },
+  "eventsCategoriesTitle": "Events Categories",
+  "@eventsCategoriesTitle": {
+    "description": "Title for the events categories section."
+  },
+  "seeAllButton": "SEE ALL",
+  "@seeAllButton": {
+    "description": "Text for the button to see all categories or events."
+  },
+  "searchTitleHome": "What you are looking for?",
+  "@searchTitleHome": {
+    "description": "Text for the button to see search field."
+  },
+  "nearestEvents": "Nearest Events",
+  "@nearestEvents": {
+    "description": "Text for the button to see nearest events."
+  },
+  "eventsForYouTitle": "Events for you",
+  "@eventsForYouTitle": {
+    "description": "Title for the events for you section."
+  },
+  "findEventsTitle": "Find Events",
+  "@findEventsTitle": {
+    "description": "Title of the Find Events page."
+  },
+  "aroundMeSectionTitle": "Around Me",
+  "@aroundMeSectionTitle": {
+    "description": "Title for the Around Me events section."
+  },
+  "mostPopularSectionTitle": "Most Popular",
+  "@mostPopularSectionTitle": {
+    "description": "Title for the Most Popular events section."
+  },
+  "lastOrdersSectionTitle": "Last Orders",
+  "@lastOrdersSectionTitle": {
+    "description": "Title for the Last Orders events section."
+  },
+  "searchBarHint": "Search for...",
+  "@searchBarHint": {
+    "description": "Placeholder text for the search bar."
+  },
+  "noEventsFoundMessage": "No events found.",
+  "@noEventsFoundMessage": {
+    "description": "Message displayed when no events match the search query."
+  },
+  "sendRequest": "Send Request",
+"@sendRequest": {
+  "description": "Button label to send a request."
+}
+,
+  "na_selectLocation": "Select Location",
+  "@na_selectLocation": {
+    "description": "Prompt asking the user to choose or pick a location."
+  },
+  "allCategoriesTitle": "All Categories",
+  "@allCategoriesTitle": {
+    "description": "Title of the All Categories page."
+  },
+  "na_noFavoriteEventsFound": "No favorite events found.",
+  "@na_noFavoriteEventsFound": {
+    "description": "Displayed when the user has not marked any events as favorites."
+  },
+  "na_noFavEventsFound": "No fav events found",
+  "@na_noFavEventsFound": {
+    "description": "Displayed when there are no favorite events saved by the user."
+  },
+  "scanQrTitle": "Scan QR Code",
+  "@scanQrTitle": {
+    "description": "Title for the Scan QR Code page."
+  },
+  "na_selectOrderFirst": "Please select an order first",
+  "@na_selectOrderFirst": {
+  "description": "Prompt telling the user to select an order before proceeding."
+  },
+  "na_orderId": "Order ID",
+"@na_orderId": {
+  "description": "Label for the unique identifier of a customer's order."
+},
+"na_noCompletedOrder": "No completed order",
+"@na_noCompletedOrder": {
+  "description": "Displayed when there are no orders marked as completed."
+},
+"na_orderDelivered": "Order delivered",
+"@na_orderDelivered": {
+  "description": "Displayed when an order has been successfully delivered."
+}
+,
+  "orderHistory": "Order History",
+  "@orderHistory": {
+    "description": "Title for the Scan QR Code page."
+  },
+  "foodLists": "Food List",
+  "@foodLists": {
+    "description": "Title for the Scan QR Code page."
+  },
+  "qrTitle": " QR Code",
+  "@qrTitle": {
+    "description": "Title for the Scan QR Code page."
+  },
+  "scanQrButton": "Scan",
+  "@scanQrButton": {
+    "description": "Title for the Scan QR Code page."
+  },
+  "scanQrSubtitle": "The QR code will be automatically detected when you position it between the guide lines",
+  "@scanQrSubtitle": {
+    "description": "Subtitle text explaining how to scan the QR code."
+  },
+  "contactUsTitle": "Contact Us",
+  "@contactUsTitle": {
+    "description": "Title for the Contact Us page."
+  },
+  "messageFieldLabel": "Message",
+  "@messageFieldLabel": {
+    "description": "Label for the Message input field."
+  },
+  "messageFieldHint": "Enter here message...",
+  "@messageFieldHint": {
+    "description": "Hint text for the Message input field."
+  },
+  "submitButton": "Submit",
+  "@submitButton": {
+    "description": "Text for the Submit button."
+  },
+  "messageSubmittedSnackbar": "Message submitted successfully",
+  "@messageSubmittedSnackbar": {
+    "description": "Message displayed when the contact form is successfully submitted."
+  },
+  "editProfileTitle": "Edit Profile",
+  "@editProfileTitle": {
+    "description": "Title for the Edit Profile page."
+  },
+  "editProfileButton": "Edit Profile",
+  "@editProfileButton": {
+    "description": "Text for the Edit Profile button."
+  },
+  "notificationTitle": "Notification",
+  "@notificationTitle": {
+    "description": "Title for the Notification page."
+  },
+  "todayLabel": "Today",
+  "@todayLabel": {
+    "description": "Label for notifications received today."
+  },
+  "yesterdayLabel": "Yesterday",
+  "@yesterdayLabel": {
+    "description": "Label for notifications received yesterday."
+  },
+  "profilePageTitle": "Profile",
+  "@profilePageTitle": {
+    "description": "Title for the Profile page."
+  },
+  "generalInformationTitle": "General information",
+  "@generalInformationTitle": {
+    "description": "Title for the general information section."
+  },
+  "languageOption": "Language",
+  "@languageOption": {
+    "description": "Option title for language settings."
+  },
+  "deleteAccountOption": "Delete Account",
+  "@deleteAccountOption": {
+    "description": "Option title for deleting the account."
+  },
+  "transactionOption": "Transaction",
+  "@transactionOption": {
+    "description": "Option title for viewing transactions."
+  },
+  "termsConditionOption": "Terms & Condition",
+  "@termsConditionOption": {
+    "description": "Option title for terms and conditions."
+  },
+  "logoutOption": "Log Out",
+  "@logoutOption": {
+    "description": "Option title for logging out."
+  },
+  "deleteConfirmation": "Are you sure to delete?",
+  "@deleteConfirmation": {
+    "description": "Confirmation message for deleting the account."
+  },
+  "logoutConfirmation": "Are you sure to logout?",
+  "@logoutConfirmation": {
+    "description": "Confirmation message for logging out."
+  },
+  "cancelButton": "Cancel",
+  "@cancelButton": {
+    "description": "Text for the cancel button."
+  },
+  "yesButton": "Yes",
+  "@yesButton": {
+    "description": "Text for the confirm button."
+  },
+  "yesLogoutButton": "Yes Logout",
+  "@yesLogoutButton": {
+    "description": "Text for the confirm logout button."
+  },
+  "userResponsibilitiesTitle": "User Responsibilities",
+  "@userResponsibilitiesTitle": {
+    "description": "Section title for user responsibilities."
+  },
+  "userResponsibilitiesContent": "Users are expected to engage with the app in a respectful and responsible manner. This includes maintaining the confidentiality of account credentials, reporting any suspicious activity, and adhering to community guidelines. Users must not engage in any behavior that disrupts the experience for others or violates any applicable laws.",
+  "@userResponsibilitiesContent": {
+    "description": "Content for the user responsibilities section."
+  },
+  "dataPrivacyTitle": "Data Privacy",
+  "@dataPrivacyTitle": {
+    "description": "Section title for data privacy."
+  },
+  "dataPrivacyContent": "We prioritize your privacy and are committed to protecting your personal information. Our app collects data in accordance with our Privacy Policy, which details how we gather, use, and safeguard your information. By using the app, you consent to our data practices, including the use of cookies and tracking technologies to enhance your user experience.",
+  "@dataPrivacyContent": {
+    "description": "Content for the data privacy section."
+  },
+  "conditionsTitle": "Conditions",
+  "@conditionsTitle": {
+    "description": "Section title for conditions."
+  },
+  "conditionsContent": "Users are expected to engage with the app in a respectful and responsible manner. This includes maintaining the confidentiality of account credentials, reporting any suspicious activity, and adhering to community guidelines. Users must not engage in any behavior that disrupts the experience for others or violates any applicable laws.",
+  "@conditionsContent": {
+    "description": "Content for the conditions section."
+  },
+  "recentPaymentsTitle": "Recent Payments",
+  "@recentPaymentsTitle": {
+    "description": "Title for the recent payments section."
+  },
+  "favoritesEventsTitle": "Favorites Events",
+  "@favoritesEventsTitle": {
+    "description": "Title for the Favorites Events page."
+  },
+  "favoriteEventsSubtitle": "It's time to buy your favorite dish.",
+  "@favoriteEventsSubtitle": {
+    "description": "Subtitle for the Favorites Events page."
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Label for the description section."
+  },
+  "foodList": "Food List",
+  "@foodList": {
+    "description": "Label for the food list section."
+  },
+  "dishes": "Dishes",
+  "@dishes": {
+    "description": "Label for the dishes section."
+  },
+  "drinks": "Drinks",
+  "@drinks": {
+    "description": "Label for the drinks section."
+  },
+  "ageVerification": "Age Verification",
+  "@ageVerification": {
+    "description": "Title for the age verification dialog."
+  },
+  "ageVerificationMessage": "Please confirm your age",
+  "@ageVerificationMessage": {
+    "description": "Message for the age verification dialog."
+  },
+  "under18Button": "I am under 18",
+  "@under18Button": {
+    "description": "Button text for users under 18."
+  },
+  "over18Button": "I am 18 old",
+  "@over18Button": {
+    "description": "Button text for users 18 and older."
+  },
+   "na_bringBackToStock": "Bring Back to Stock",
+  "@na_bringBackToStock": {
+    "description": "Label or button for requesting a product to be restocked."
+  },
+  "na_outOfStock": "Out of stock",
+  "@na_outOfStock": {
+  "description": "Displayed when an item is not available in inventory."
+},
+  "na_confirmationTokenVerification": "Confirmation Token Verification",
+  "@na_confirmationTokenVerification": {
+    "description": "Displayed during the token verification process."
+  },
+  "na_enterConfirmationCode": "Please enter the confirmation code for your specific order to complete the process.",
+  "@na_enterConfirmationCode": {
+    "description": "Prompt for users to enter a confirmation code related to their order."
+  },
+  "na_scanACode": "Scan a code",  
+  "@na_scanACode": {
+  "description": "Prompt or instruction to scan a QR code or barcode."
+  },
+  "na_verifyConfirmationCode": "Verify confirmation code",
+  "@na_verifyConfirmationCode": {
+  "description": "Button or prompt to confirm the verification code entered by the user."
+  }, 
+  "na_foods": "Foods",
+  "@na_foods": {
+  "description": "Label for a section displaying different types of food."
+  },
+  "na_noFoodItemFound": "No food item found",
+  "@na_noFoodItemFound": {
+  "description": "Displayed when no food items are available to show."
+},
+  "na_seeMore": "See More",
+  "@na_seeMore": {
+  "description": "Displayed as a button or link to reveal additional content."
+  },
+  "na_seeLess": "See Less",
+  "ageWarning": "You must have to be older than 18yo and abusing alcohol is dangerous for the health",
+  "@ageWarning": {
+    "description": "Warning message for age restriction and alcohol."
+  },
+  "goToCart": "Go to Cart",
+  "@goToCart": {
+    "description": "Button text for navigating to the cart."
+  },
+  "na_addToCart": "Add to Cart",
+  "@na_addToCart": {
+  "description": "Displayed on a button that allows the user to add an item to the shopping cart."
+  },
+  "na_itemCount": "Item Count",
+  "@na_itemCount": {
+  "description": "Label indicating the number of items in the cart or list."
+  },
+  "myCart": "My Cart",
+  "@myCart": {
+    "description": "Title for the My Cart page."
+  },
+  "na_noItemInCart": "No item in cart",
+  "@na_noItemInCart": {
+  "description": "Displayed when the user's shopping cart is empty."
+  },
+  "na_itemId": "Item Id",
+  "@na_itemId": {
+  "description": "Label for the unique identifier of an item."
+},
+  "subtotal": "Subtotal",
+  "@subtotal": {
+    "description": "Label for the subtotal amount in the cart."
+  },
+  "delivery": "Delivery",
+  "@delivery": {
+    "description": "Label for the delivery cost in the cart."
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Label for the total amount in the cart."
+  },
+  "checkOut": "Check Out",
+  "@checkOut": {
+    "description": "Button text for proceeding to checkout from the cart."
+  },
+  "checkout": "Checkout",
+  "@checkout": {
+    "description": "Title for the Checkout page."
+  },
+  "information": "Information",
+  "@information": {
+    "description": "Label for the information section in the checkout page."
+  },
+  "applyCoupon": "Apply Coupon",
+  "@applyCoupon": {
+    "description": "Placeholder text for the coupon input field."
+  },
+  "apply": "Apply",
+  "@apply": {
+    "description": "Button text for applying a coupon code."
+  },
+  "applyCouponSuccess": "Coupon applied successfully",
+  "@applyCouponSuccess": {
+    "description": "Message displayed when the coupon is applied successfully."
+  },
+  "payNow": "Pay Now",
+  "@payNow": {
+    "description": "Button text for proceeding to payment."
+  },
+  "selectPaymentMethod": "Select Payment Method",
+  "@selectPaymentMethod": {
+    "description": "Title for the payment method selection screen."
+  },
+  "receiveBillByEmail": "Receive the bill by mail",
+  "@receiveBillByEmail": {
+    "description": "Label for the option to receive the bill via email."
+  },
+  "successMessagePart1": "You have successfully placed a party order with friends. Enjoy the event!",
+  "@successMessagePart1": {
+    "description": "First part of the success message in the dialog."
+  },
+  "na_productOutOfStock": "This product is out of stock",
+  "@na_productOutOfStock": {
+    "description": "Displayed when a specific product is not available for purchase."
+  },
+  "successMessagePart2": "with Friends enjoy event!",
+  "@successMessagePart2": {
+    "description": "Second part of the success message in the dialog."
+  },
+  "trackOrder": "Track Order",
+  "@trackOrder": {
+    "description": "Button text for navigating to the order tracking page."
+  },
+  "goToHome": "Go to home",
+  "@goToHome": {
+    "description": "Button text for navigating to the home page."
+  },
+  "addNewCard": "Add New Card",
+  "@addNewCard": {
+    "description": "Button text for adding a new card in the payment method screen."
+  },
+  "orderSuccess": "You Have Successfully Placed order party.",
+  "@orderSuccess": {
+    "description": "Message displayed when the order is successfully placed for a party."
+  },
+  "orderWithFriends": "With Friends enjoy event.",
+  "@orderWithFriends": {
+    "description": "Message displayed encouraging users to enjoy the event with friends."
+  },
+  "cardNumber": "Card Number",
+  "@cardNumber": {
+    "description": "Label and placeholder for the card number input field."
+  },
+  "cardHolderName": "Card Holder Name",
+  "@cardHolderName": {
+    "description": "Label and placeholder for the card holder name input field."
+  },
+  "expiryDate": "Expiry Date",
+  "@expiryDate": {
+    "description": "Label and placeholder for the expiry date input field."
+  },
+  "cvv": "CVV",
+  "@cvv": {
+    "description": "Label and placeholder for the CVV input field."
+  },
+  "addCard": "Add Card",
+  "@addCard": {
+    "description": "Button text for adding a new card."
+  },
+  "showQrCode": "Show QR Code",
+  "@showQrCode": {
+    "description": "Button text for displaying the QR code dialog."
+  },
+  "scanQr": "Scan QR",
+  "@scanQr": {
+    "description": "Title for the QR code dialog."
+  },
+  "qrCodeInstruction": "Scan QR Code for withdraw order",
+  "@qrCodeInstruction": {
+    "description": "Instruction text for scanning the QR code."
+  },
+  "qrCodeWarning": "The QR code is personal. Do not share it with anyone. Sharing this code may result in unauthorized access to your order.",
+  "@qrCodeWarning": {
+    "description": "Warning text for QR code privacy."
+  },
+  "cancelOrder": "Cancel Order",
+  "@cancelOrder": {
+    "description": "Button text for canceling the order."
+  },
+  "na_sendOtpDeleteAccountSuccess": "OTP sent successfully to delete account",
+"@na_sendOtpDeleteAccountSuccess": {
+  "description": "Confirmation message that the OTP has been sent successfully for account deletion."
+}
+,
+"na_errorSendOtp": "Error sending OTP",
+"@na_errorSendOtp": {
+  "description": "Displayed when there is an error sending the OTP."
+}
+,
+  "myOrder": "My Orders",
+  "@myOrder": {
+    "description": "Title for the My Order page."
+  },
+  "noOrdersYet": "No Orders Yet",
+  "@noOrdersYet": {
+    "description": "Message indicating that the user has no orders yet."
+  },
+  "startOrdering": "Start Ordering",
+  "@startOrdering": {
+    "description": "Button text for starting the ordering process."
+  },
+  "allOrders": "All Orders",
+  "@allOrders": {
+    "description": "Tab label for viewing all orders."
+  },
+  "completed": "Completed",
+  "@completed": {
+    "description": "Tab label for viewing completed orders."
+  },
+  "cancelled": "Cancelled",
+  "@cancelled": {
+    "description": "Tab label for viewing cancelled orders."
+  },
+  "leaveReview": "Leave a review",
+  "@leaveReview": {
+    "description": "Button text for leaving a review on an order."
+  },
+  "orderAgain": "Order Again",
+  "@orderAgain": {
+    "description": "Button text for reordering a previous order."
+  },
+  "na_writeReview": "Write a review",
+"@na_writeReview": {
+  "description": "Button or prompt encouraging the user to leave a review."
+}
+,
+"na_orderCancel": "Order Cancelled",
+  "@na_orderCancel": {
+    "description": "Indicates that the user's order has been cancelled."
+  },
+"na_noCancelledOrder": "No cancelled order",
+"@na_noCancelledOrder": {
+  "description": "Displayed when there are no orders that have been cancelled."
+}
+,
+  "recentsSearch": "Recents Search",
+  "@recentsSearch": {
+    "description": "Title for the recent searches section."
+  },
+  "searchHere": "Search here",
+  "@searchHere": {
+    "description": "Title for the search page."
+  },
+  "createNewPin": "Create New Pin",
+  "@createNewPin": {
+    "description": "Title for the page to create a new pin."
+  },
+  "confirmNewPassword": "Confirm New Password",
+  "@confirmNewPassword": {
+    "description": "Hint text for the confirm new password input field."
+  },
+  "createYourNewPassword": "Create Your New Password",
+  "@createYourNewPassword": {
+    "description": "Header text prompting the user to create a new password."
+  },
+  "addPinNumber": "Add a Pin Number to Make Your Account\nmore Secure",
+  "@addPinNumber": {
+    "description": "Description text prompting the user to add a PIN for enhanced security."
+  },
+  "bottomBarHome": "Home",
+  "@bottomBarHome": {
+    "description": "Label for the home tab in the seller bottom navigation bar."
+  },
+  "bottomBarStocks": "Stocks",
+  "@bottomBarStocks": {
+    "description": "Label for the stocks tab in the seller bottom navigation bar."
+  },
+  "bottomBarOrders": "Orders",
+  "@bottomBarOrders": {
+    "description": "Label for the orders tab in the seller bottom navigation bar."
+  },
+  "bottomBarProfile": "Profile",
+  "@bottomBarProfile": {
+    "description": "Label for the profile tab in the seller bottom navigation bar."
+  },
+  "sellerHomeActionPrompt": "What you wanna \nto do as Seller?",
+  "@sellerHomeActionPrompt": {
+    "description": "Prompt for seller actions on the Seller Home Page."
+  },
+  "sellerHomeSwitchToResponsibleMode": "Switch to Responsible Mode",
+  "@sellerHomeSwitchToResponsibleMode": {
+    "description": "Label for the switch to enable Responsible Mode."
+  },
+  "sellerHomeOrdersTaken": "Orders Taken",
+  "@sellerHomeOrdersTaken": {
+    "description": "Label for the number of orders taken by the seller."
+  },
+  "sellerHomeByMe": "by me",
+  "@sellerHomeByMe": {
+    "description": "Indicates orders taken by the seller."
+  },
+  "sellerHomeOrdersBySomeone": "Orders Taken by someone",
+  "@sellerHomeOrdersBySomeone": {
+    "description": "Indicates orders taken by someone else."
+  },
+  "sellerHomeOrdersOnWaiting": "Orders on Waiting",
+  "@sellerHomeOrdersOnWaiting": {
+    "description": "Indicates orders currently on hold or waiting."
+  },
+  "sellerHomePendingOrders": "Pending Orders",
+  "@sellerHomePendingOrders": {
+    "description": "Section title for pending orders on the Seller Home Page."
+  },
+  "sellerHomeFinishOrder": "Finish Order",
+  "@sellerHomeFinishOrder": {
+    "description": "Button text for finishing an order."
+  },
+  "sellerHomeDeclineOrder": "Decline Order",
+  "@sellerHomeDeclineOrder": {
+    "description": "Button text for declining an order."
+  },
+  "sellerHomeCancelOrder": "Cancel the Order",
+  "@sellerHomeCancelOrder": {
+    "description": "Button text for canceling an order."
+  },
+  "sellerHomeAcceptOrder": "Accept Order",
+  "@sellerHomeAcceptOrder": {
+    "description": "Button text for accepting an order."
+  },
+  "sellerHomeCustomer": "Customer",
+  "@sellerHomeCustomer": {
+    "description": "Label for the customer section in order details."
+  },
+  "sellerHomeContact": "contact:",
+  "@sellerHomeContact": {
+    "description": "Label for customer contact details in order details."
+  },
+  "sellerHomeAddress": "Address:",
+  "@sellerHomeAddress": {
+    "description": "Label for customer address in order details."
+  },
+  "na_mostRecentEvents": "Most recent events",
+  "@na_mostRecentEvents": {
+  "description": "Label for a section showing the latest events."
+  },
+  "na_noRecentEvents": "No recent events",
+"@na_noRecentEvents": {
+  "description": "Displayed when there are no recent events to show."
+},
+"na_noLatestOrdersAvailable": "No latest orders available",
+"@na_noLatestOrdersAvailable": {
+  "description": "Displayed when there are no recent orders to show."
+}
+,
+
+  "na_somethingWentWrong": "Something went wrong. Try again",
+  "@na_somethingWentWrong": {
+  "description": "Displayed when an unexpected error occurs and the user is prompted to retry." 
+  },
+  "na_noEventAvailable": "No event available",
+  "@na_noEventAvailable": {
+  "description": "Displayed when there are no events to show."
+  },
+  "na_noPopularEvents": "No popular events",
+  "@na_noPopularEvents": {
+  "description": "Displayed when there are no popular events to show."
+  },
+
+  "sellerHomeItems": "Items:",
+  "@sellerHomeItems": {
+    "description": "Label for items in order details."
+  },
+  "na_sellerHomeQuantity": "Quantity",
+  "@na_sellerHomeQuantity": {
+    "description": "Label for the quantity of items in the order details."
+  },
+  "na_enterCouponCode": "Please enter a coupon code",
+  "@na_enterCouponCode": {
+  "description": "Prompt asking the user to input a coupon or discount code."
+  },
+  "na_sellerHomePricePerItem": "Price/Item",
+  "@na_sellerHomePricePerItem": {
+    "description": "Label for the price per item in the order details."
+  },
+  "na_personalDataManagement": "Personal Data Management",
+  "@na_personalDataManagement": {
+    "description": "Button text for navigating to personal data management."
+  },
+  "set_up_maximum_orders_limit": "Set up your maximum orders limit..",
+  "@set_up_maximum_orders_limit": {
+    "description": "Text prompting the user to set up the maximum number of orders they can accept."
+  },
+  "orders_limit": "Orders Limit",
+  "@orders_limit": {
+    "description": "Label for the field where the user sets their maximum order limit."
+  },
+  "please_enter_limit": "please enter limit",
+  "@please_enter_limit": {
+    "description": "Error message shown when the user doesn't enter a limit for the maximum orders."
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Label for the save button."
+  },
+  "generate_coupon": "Generate Coupon",
+  "@generate_coupon": {
+    "description": "Title of the page where the seller can create a coupon."
+  },
+  "discount_amount": "Discount Amount",
+  "@discount_amount": {
+    "description": "Label for the discount amount input field."
+  },
+  "enter_amount": "Enter amount",
+  "@enter_amount": {
+    "description": "Placeholder text for the discount amount input field."
+  },
+  "create_delivery_charges": "Create Delivery Charges",
+  "@create_delivery_charges": {
+    "description": "Title of the page for creating delivery charges."
+  },
+  "base_delivery_fee": "Base Delivery Fee",
+  "@base_delivery_fee": {
+    "description": "Label for the base delivery fee input field."
+  },
+  "enter_delivery_fee": "Enter delivery fee",
+  "@enter_delivery_fee": {
+    "description": "Placeholder text for the base delivery fee input field."
+  },
+  "delivery_per_km": "Delivery Per Km",
+  "@delivery_per_km": {
+    "description": "Label for the delivery fee per kilometer input field."
+  },
+  "enter_value": "Enter value",
+  "@enter_value": {
+    "description": "Placeholder text for the delivery per km input field."
+  },
+  "minimum_order_fee": "Minimum Order Fee",
+  "@minimum_order_fee": {
+    "description": "Label for the minimum order fee input field."
+  },
+  "order_fee": "Order fee",
+  "@order_fee": {
+    "description": "Placeholder text for the minimum order fee input field."
+  },
+  "fee_threshold": "Fee Threshold",
+  "@fee_threshold": {
+    "description": "Label for the free delivery threshold input field."
+  },
+  "threshold": "Threshold",
+  "@threshold": {
+    "description": "Placeholder text for the fee threshold input field."
+  },
+  "create": "Create",
+  "@create": {
+    "description": "Text on the button to create the delivery charges."
+  },
+  "discount_percentage": "Discount Percentage",
+  "@discount_percentage": {
+    "description": "Label for the discount percentage input field."
+  },
+  "enter_percentage": "Enter percentage",
+  "@enter_percentage": {
+    "description": "Placeholder text for the discount percentage input field."
+  },
+  "valid_from": "Valid From",
+  "@valid_from": {
+    "description": "Label for the start date input field."
+  },
+  "valid_until": "Valid Until",
+  "@valid_until": {
+    "description": "Label for the end date input field."
+  },
+  "usage_limit": "Usage Limit",
+  "@usage_limit": {
+    "description": "Label for the usage limit input field."
+  },
+  "enter_limit": "Enter limit",
+  "@enter_limit": {
+    "description": "Placeholder text for the usage limit input field."
+  },
+  "generate": "Generate",
+  "@generate": {
+    "description": "Text on the button to generate the coupon."
+  },
+  "all_coupons": "All Coupons",
+  "@all_coupons": {
+    "description": "Title of the page displaying all coupons."
+  },
+  "no_coupon_found": "No Coupon Found",
+  "@no_coupon_found": {
+    "description": "Message displayed when no coupons are found."
+  },
+  "chats": "Chats",
+  "@chats": {
+    "description": "Title of the inbox page for chats"
+  },
+  "no_chat_found": "No Chat Found",
+  "@no_chat_found": {
+    "description": "Text displayed when no chat is found"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Placeholder text for the search bar"
+  },
+  "na_applicationTheme": "Application Theme Management",
+  "@na_applicationTheme": {
+    "description": "Button text for navigating to application theme settings."
+  },
+  "na_maximumOrderLimit": "Maximum Order Limits",
+  "@na_maximumOrderLimit": {
+    "description": "Button text for setting maximum order limits."
+  },
+  "na_privacy": "Privacy",
+  "@na_privacy": {
+    "description": "Button text for navigating to the privacy settings page."
+  },
+  "na_faqs": "FAQs",
+  "@na_faqs": {
+    "description": "Button text for navigating to the FAQs page."
+  },
+  "na_help": "Help",
+  "@na_help": {
+    "description": "Button text for navigating to the help section."
+  },
+  "na_pickImage": "Pick Image",
+  "@na_pickImage": {
+    "description": "Dialog title for choosing an image source."
+  },
+  "na_pickCamera": "Camera",
+  "@na_pickCamera": {
+    "description": "Option text for selecting the camera."
+  },
+  "na_pickGallery": "Gallery",
+  "@na_pickGallery": {
+    "description": "Option text for selecting the gallery."
+  },
+  "coupons": "Coupons",
+  "@coupons": {
+    "description": "Text for the setting option to navigate to the coupons section."
+  },
+  "delivery_charges": "Delivery Charges",
+  "@delivery_charges": {
+    "description": "Text for the setting option to navigate to the delivery charges section."
+  },
+  "messages": "Messages",
+  "@messages": {
+    "description": "Text for the setting option to navigate to the messages section."
+  },
+  "privacy": "Privacy",
+  "@privacy": {
+    "description": "Text for the setting option to navigate to the privacy section."
+  },
+  "faqs": "FAQS",
+  "@faqs": {
+    "description": "Text for the setting option to navigate to the FAQs section."
+  },
+  "na_viewProfile": "View Profile",
+  "@na_viewProfile": {
+    "description": "Button or label to allow the user to view their profile details."
+  },
+  "general_information": "General information",
+  "@general_information": {
+    "description": "Title for the general information section."
+  },
+  "help": "Help",
+  "@help": {
+    "description": "Text for the setting option to navigate to the help section."
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Text for the setting option to navigate to the language settings."
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Text for the button to log out the user."
+  },
+  "pick_image": "Pick Image",
+  "@pick_image": {
+    "description": "Text for the option to pick an image."
+  },
+  "camera": "Camera",
+  "@camera": {
+    "description": "Text for the camera option to take a photo."
+  },
+  "gallery": "Gallery",
+  "@gallery": {
+    "description": "Text for the gallery option to select an image."
+  },
+  "na_mySettings": "My Settings",
+  "@na_mySettings": {
+    "description": "Heading text for the settings section."
+  },
+  "na_professionalAccount": "Professional Account",
+  "@na_professionalAccount": {
+    "description": "Heading for the professional account section."
+  },
+  "na_professionalAccountInfo": "Ask information to manage professional account",
+  "@na_professionalAccountInfo": {
+    "description": "Subtitle for the professional account section."
+  },
+  "na_dontHaveAccount": "Don’t have an account?",
+  "@na_dontHaveAccount": {
+    "description": "Label text for new users prompting to register."
+  },
+  "na_registerHere": "Register here",
+  "@na_registerHere": {
+    "description": "Button text for navigating to the registration page."
+  },
+  "explore_responsible": "Explore things as\nProfessional!",
+  "@explore_responsible": {
+    "description": "Tagline under the greeting on the homepage."
+  },
+  "switch_to_seller_mode": "Switch to Seller Mode",
+  "@switch_to_seller_mode": {
+    "description": "Label for switching to Seller Mode"
+  },
+  "todays_registrations": "Today’s Registrations",
+  "@todays_registrations": {
+    "description": "Label for displaying the registration count for the day."
+  },
+  "todays_revenue": "Today’s Revenue",
+  "@todays_revenue": {
+    "description": "Label for displaying the revenue count for the day."
+  },
+  "manage_catagory": "Manage Catagory",
+  "@manage_catagory": {
+    "description": "Label for manage catagory"
+  },
+  "revenue_this_week": "Revenue this week",
+  "@revenue_this_week": {
+    "description": "Title for displaying revenue data of the current week."
+  },
+  "registrations_this_week": "Registrations this week",
+  "@registrations_this_week": {
+    "description": "Title for displaying registration data of the current week."
+  },
+  "switch_toggle_hint": "Select Event",
+  "@switch_toggle_hint": {
+    "description": "Hint text for the dropdown input field for selecting an event."
+  },
+  "support_requests": "Support Requests",
+  "@support_requests": {
+    "description": "Title for the support requests page."
+  },
+  "refund_order": "Refund Order",
+  "@refund_order": {
+    "description": "Text for the button to initiate a refund."
+  },
+  "enter_message_hint": "Enter message...",
+  "@enter_message_hint": {
+    "description": "Hint text for the message input field."
+  },
+  "what_you_want_to_refund": "What You Want to Refund?",
+  "@what_you_want_to_refund": {
+    "description": "Title of the refund dialog asking what the user wants to refund."
+  },
+  "cancel_button": "Cancel",
+  "@cancel_button": {
+    "description": "Text for the cancel button in the refund dialog."
+  },
+  "refund_item_button": "Refund Item",
+  "@refund_item_button": {
+    "description": "Text for the button to proceed with the refund in the refund dialog."
+  },
+  "add_item": "Add Item",
+  "@add_item": {
+    "description": "Text for the button to proceed with the refund in the refund dialog."
+  },
+  "item_name": "Item Name",
+  "@item_name": {
+    "description": "Label for the item name input field."
+  },
+  "item_price": "Item Price",
+  "@item_price": {
+    "description": "Label for the item price input field."
+  },
+  "select_food_category": "Select Food Category",
+  "@select_food_category": {
+    "description": "Label for the dropdown to select food category."
+  },
+  "select_event": "Select Event",
+  "@select_event": {
+    "description": "Label for the dropdown to select event."
+  },
+  "alcoholic": "Alcoholic",
+  "@alcoholic": {
+    "description": "Label for the alcoholic option."
+  },
+  "non_alcoholic": "Non-Alcoholic",
+  "@non_alcoholic": {
+    "description": "Label for the non-alcoholic option."
+  },
+  "item_description": "Item Description",
+  "@item_description": {
+    "description": "Label for the item description input field."
+  },
+  "start_time": "Start Time",
+  "@start_time": {
+    "description": "Label for the start time input field."
+  },
+  "end_time": "End Time",
+  "@end_time": {
+    "description": "Label for the end time input field."
+  },
+  "create_item": "Create Item",
+  "@create_item": {
+    "description": "Text for the button to create a new item."
+  },
+  "all_delivery_charges": "All Delivery Charges",
+  "@all_delivery_charges": {
+    "description": "Label for the menu item that links to the all delivery charges page."
+  },
+  "manage_events": "Manage Events",
+  "@manage_events": {
+    "description": "Label for the menu item that links to the manage events page."
+  },
+  "sales_report": "Sales report",
+  "@sales_report": {
+    "description": "Label for the menu item that links to the sales report page."
+  },
+  "orders": "Orders",
+  "@orders": {
+    "description": "Label for the menu item that links to the orders page."
+  },
+  "add_events": "Add Events",
+  "@add_events": {
+    "description": "Label for the menu item that links to the add events page."
+  },
+  "add_seller_bank_account": "Add Seller Bank Account",
+  "@add_seller_bank_account": {
+    "description": "Label for the menu item that links to the add seller bank account page."
+  },
+  "change_password": "Change Password",
+  "@change_password": {
+    "description": "Label for the menu item that links to the change password page."
+  },
+  "add_event_category": "Add Event Category",
+  "@add_event_category": {
+    "description": "Label for the menu item that links to the add event category page."
+  },
+  "order_list": "Order List",
+  "@order_list": {
+    "description": "Title for the order list page."
+  },
+  "manage_food_items": "Manage Food Items",
+  "@manage_food_items": {
+    "description": "Title for the manage food items page."
+  },
+  "app_language": "App Language",
+  "@app_language": {
+    "description": "Title for the app language page."
+  },
+  "select_language": "Select Language",
+  "@select_language": {
+    "description": "Text for selecting a language."
+  },
+  "update_item": "Update Item",
+  "@update_item": {
+    "description": "Text for updating an item."
+  },
+  "edit_item": "Edit Item",
+  "@edit_item": {
+    "description": "Text for editing an item."
+  },
+  "na_emailChange": "Email Change",
+  "@na_emailChange": {
+    "description": "Label or title for the process or option to change the user's email address."
+  },
+  "na_fillAllInputs": "Please fill all inputs",
+  "@na_fillAllInputs": {
+    "description": "Warning message prompting the user to complete all required input fields."
+  },
+  "na_enterEmailToChange": "Enter email to change",
+  "@na_enterEmailToChange": {
+    "description": "Instructional text asking the user to input the email address they want to change."
+  },
+  "na_enterVerifiedEmail": "Please enter verified email",
+  "@na_enterVerifiedEmail": {
+    "description": "Prompt asking the user to enter an email address that has been verified."
+  },
+  "item_created_successfully": "Item created successfully",
+  "@item_created_successfully": {
+    "description": "Message shown when the item is created successfully."
+  },
+  "congratulations": "Congratulations",
+  "@congratulations": {
+    "description": "Message shown to congratulate the user for creating an item."
+  },
+  "item_created_message": "You Have Successfully Created a New Item",
+  "@item_created_message": {
+    "description": "Message shown after the item creation confirmation."
+  },
+  "view_item": "View Item",
+  "@view_item": {
+    "description": "Button text to view the created item."
+  },
+  "na_disconnect": "Disconnect",
+  "@na_disconnect": {
+    "description": "Button text for disconnecting the account."
+  },
+  "na_manageAccount": "Manage Account",
+  "@na_manageAccount": {
+    "description": "Menu item text for navigating to account management."
+  },
+  "na_modifyEstablishment": "Modify the establishment",
+  "@na_modifyEstablishment": {
+    "description": "Menu item text for modifying the establishment details."
+  },
+  "na_manageEvents": "Manage Events",
+  "@na_manageEvents": {
+    "description": "Menu item text for managing events."
+  },
+  "na_salesReport": "Sales report",
+  "@na_salesReport": {
+    "description": "Menu item text for viewing the sales report."
+  },
+  "na_settings": "Setting",
+  "@na_settings": {
+    "description": "Menu item text for accessing app settings."
+  },
+  "na_paymentMethods": "Payment Methods",
+  "@na_paymentMethods": {
+    "description": "Menu item text for managing payment methods."
+  },
+  "na_transferMoney": "Transfer Money",
+  "@na_transferMoney": {
+    "description": "Menu item text for transferring money."
+  },
+  "na_orders": "Orders",
+  "@na_orders": {
+    "description": "Menu item text for viewing orders."
+  },
+  "na_addEvents": "Add Events",
+  "@na_addEvents": {
+    "description": "Menu item text for adding new events."
+  },
+  "na_sellerAccounts": "Seller Accounts",
+  "@na_sellerAccounts": {
+    "description": "Section title for seller accounts in the manage accounts page."
+  },
+  "na_responsibleAccounts": "Responsible Accounts",
+  "@na_responsibleAccounts": {
+    "description": "Section title for responsible accounts in the manage accounts page."
+  },
+  "na_addSellerAccount": "Add Seller Account",
+  "@na_addSellerAccount": {
+    "description": "Button text for adding a new seller account."
+  },
+  "na_createSellerAccount": "Create Seller Account",
+  "@na_createSellerAccount": {
+    "description": "Title for the page where a seller account is created."
+  },
+  "na_askInformationToManageSellerAccount": "Ask information to manage seller account",
+  "@na_askInformationToManageSellerAccount": {
+    "description": "Description of the purpose of the form to create a seller account."
+  },
+  "na_attributedEvent": "Attributed Event",
+  "@na_attributedEvent": {
+    "description": "Label for the attributed event field in the seller account form."
+  },
+  "na_sellerAccountCreated": "Seller account has been created",
+  "@na_sellerAccountCreated": {
+    "description": "Message displayed after a seller account is successfully created."
+  },
+  "select_event_catagory": "Select Event Catagory",
+  "@select_event_catagory": {
+    "description": "Message select event catagory."
+  },
+  "na_createAccount": "Create Account",
+  "@na_createAccount": {
+    "description": "Text on the button to create a new seller account."
+  },
+  "na_editSellerProfile": "Edit Seller Profile",
+  "@na_editSellerProfile": {
+    "description": "Title for the edit seller profile page."
+  },
+  "na_saveChanges": "Save Changes",
+  "@na_saveChanges": {
+    "description": "Button text for saving the changes made to the seller profile."
+  },
+  "na_totalAmount": "Total Amount",
+  "@na_totalAmount": {
+    "description": "Label for the total sales amount."
+  },
+  "na_withdraw": "Withdraw",
+  "@na_withdraw": {
+    "description": "Button text for withdrawing the total amount."
+  },
+  "na_itemsSold": "Items Sold",
+  "@na_itemsSold": {
+    "description": "Label for the section showing items sold."
+  },
+  "na_byCategory": "By Category",
+  "@na_byCategory": {
+    "description": "Label for the sales category breakdown."
+  },
+  "na_mostSoldItem": "Most Sold Item",
+  "@na_mostSoldItem": {
+    "description": "Label for the most sold item section."
+  },
+  "na_sellersActivity": "Seller's Activity",
+  "@na_sellersActivity": {
+    "description": "Label for the seller's activity section."
+  },
+  "na_topProducts": "Top Products",
+  "@na_topProducts": {
+    "description": "Section label for the top products in the sales report."
+  },
+  "na_addEvent": "Add Event",
+  "@na_addEvent": {
+    "description": "Title for the page where a new event can be added."
+  },
+  "na_uploadPhotos": "Upload Photos",
+  "@na_uploadPhotos": {
+    "description": "Label for uploading event photos."
+  },
+  "na_eventName": "Event Name",
+  "@na_eventName": {
+    "description": "Label for the event name input field."
+  },
+  "na_eventCategory": "Category",
+  "@na_eventCategory": {
+    "description": "Label for the event category input field."
+  },
+  "na_eventAddress": "Address",
+  "@na_eventAddress": {
+    "description": "Label for the event address input field."
+  },
+  "na_openingDays": "Opening Days",
+  "@na_openingDays": {
+    "description": "Label for the event opening days input field."
+  },
+  "na_eventDescription": "Description",
+  "@na_eventDescription": {
+    "description": "Label for the event description input field."
+  },
+  "na_createEvent": "Create Event",
+  "@na_createEvent": {
+    "description": "Button text for creating a new event."
+  },
+  "add_bank_account": "Add Bank Account",
+  "@add_bank_account": {
+    "description": "Title for the add bank account page."
+  },
+  "bank_name": "Bank Name",
+  "@bank_name": {
+    "description": "Label for the bank name field."
+  },
+  "account_number": "Account Number",
+  "@account_number": {
+    "description": "Label for the account number field."
+  },
+  "account_type": "Account Type",
+  "@account_type": {
+    "description": "Label for the account type field."
+  },
+  "account_holder_name": "Account Holder Name",
+  "@account_holder_name": {
+    "description": "Label for the account holder name field."
+  },
+  "email_address": "Email Address",
+  "@email_address": {
+    "description": "Label for the email address field."
+  },
+  "all_events": "All Events",
+  "@all_events": {
+    "description": "Title for the all events page."
+  },
+  "event_details": "Event Details",
+  "@event_details": {
+    "description": "Title for the event details page."
+  },
+  "edit_event": "Edit Event",
+  "@edit_event": {
+    "description": "Button text to edit the event details."
+  },
+  "na_addPaymentMethod": "Add Payment method",
+  "@na_addPaymentMethod": {
+    "description": "Title for the page where the user can add a payment method."
+  },
+  "na_noPaymentFound": "No Payment Found",
+  "@na_noPaymentFound": {
+    "description": "Message displayed when no payment methods are found."
+  },
+  "na_addAndEditPayments": "You can add and edit payments during checkout",
+  "@na_addAndEditPayments": {
+    "description": "Instruction text informing the user that they can add or edit payment methods during checkout."
+  },
+  "na_addPaymentMethodButton": "Add Payment Method",
+  "@na_addPaymentMethodButton": {
+    "description": "Button text for adding a payment method."
+  },
+  "na_nameOnCard": "Name on Card",
+  "@na_nameOnCard": {
+    "description": "Label for the name field on the payment card."
+  },
+  "na_cardNumber": "Card Number",
+  "@na_cardNumber": {
+    "description": "Label for the card number field."
+  },
+  "na_cvc": "CVC",
+  "@na_cvc": {
+    "description": "Label for the CVC field on the payment card."
+  },
+  "na_addNow": "Add now",
+  "@na_addNow": {
+    "description": "Button text to add the payment method."
+  },
+  "na_cvcInfo": "3 or 4 digits usually found on the signature strip",
+  "@na_cvcInfo": {
+    "description": "Description of the CVC field."
+  },
+  "na_paymentMethodAdded": "Payment method added successfully",
+  "@na_paymentMethodAdded": {
+    "description": "Message displayed when the payment method is successfully added."
+  },
+  "na_moneyTransfer": "Money Transfer",
+  "@na_moneyTransfer": {
+    "description": "Title for the money transfer page."
+  },
+  "na_accountNumber": "Account Number",
+  "@na_accountNumber": {
+    "description": "Label for the account number input field."
+  },
+  "na_selectCard": "Select a Card",
+  "@na_selectCard": {
+    "description": "Title for the page where the user selects a card."
+  },
+  "na_enterAmount": "Enter Amount",
+  "@na_enterAmount": {
+    "description": "Label for the amount input field in the card selection page."
+  },
+  "na_descriptionText": "Please, enter the amount of money transfer in below field.",
+  "@na_descriptionText": {
+    "description": "Description text prompting the user to enter the amount for money transfer."
+  },
+  "na_next": "Next",
+  "@na_next": {
+    "description": "Button text for proceeding to the next step."
+  },
+  "na_orderBeingProcessed": "is being processed. You’ve ordered:",
+"@na_orderBeingProcessed": {
+  "description": "Message indicating that the order is being processed, followed by a list of ordered items."
+}
+,
+ "na_orderReady": "Order Ready",
+  "@na_orderReady": {
+    "description": "Indicates that the user's order is prepared and ready for pickup or delivery."
+  },
+"na_forTotalOf": "for a total of",
+"@na_forTotalOf": {
+  "description": "Phrase used to indicate the total amount or cost."
+}
+,
+  "na_selectBank": "Select a Bank",
+  "@na_selectBank": {
+    "description": "Title for the page where the user selects a bank for money transfer."
+  },
+  "na_selectBankDescription": "Please, select a bank from which you want to do the money transfer.",
+  "@na_selectBankDescription": {
+    "description": "Description text prompting the user to select a bank for transferring money."
+  },
+  "na_from": "from",
+"@na_from": {
+  "description": "Used to indicate the starting point of a range, such as a price or date."
+}
+,
+  "na_verifyNumber": "Verify your Number",
+  "@na_verifyNumber": {
+    "description": "Title for the page where the user verifies their phone number."
+  },
+  "na_verifyPhoneNumber": "Please verify your\nPhone Number",
+  "@na_verifyPhoneNumber": {
+    "description": "Description prompting the user to verify their phone number."
+  },
+  "na_enterVerificationCode": "Enter Verification Code (5-digit)",
+  "@na_enterVerificationCode": {
+    "description": "Label for the field where the user enters the 5-digit verification code."
+  },
+  "na_topUpSimCard": "Top-up Sim Card",
+  "@na_topUpSimCard": {
+    "description": "Title for the page where the user tops up their SIM card."
+  },
+  "na_mobilePhoneNumber": "Mobile Phone No.",
+  "@na_mobilePhoneNumber": {
+    "description": "Label for the mobile phone number field."
+  },
+  "na_enterMobileNumber": "Please, enter the Sim Card Number in below field.",
+  "@na_enterMobileNumber": {
+    "description": "Description prompting the user to enter the mobile phone number."
+  },
+  "na_mobileNumberValidation": "Please enter your mobile number",
+  "@na_mobileNumberValidation": {
+    "description": "Validation message when the mobile phone number field is empty."
+  },
+  "na_topUpAmount": "Top-up Amount",
+  "@na_topUpAmount": {
+    "description": "Title for the page where the user enters the top-up amount."
+  },
+  "na_topUpAmountDescription": "Please, enter the amount of Sim Card Number Top-up in below field.",
+  "@na_topUpAmountDescription": {
+    "description": "Description prompting the user to enter the top-up amount."
+  },
+  "na_noNearestEventFound": "No nearest event found",
+  "@na_noNearestEventFound": {
+  "description": "Displayed when there are no upcoming or nearby events to show."
+  },
+
+  "na_selectSimCardService": "Please, select a Sim Card Service on which you want to Top-up.",
+  "@na_selectSimCardService": {
+    "description": "Description prompting the user to select a SIM card service for the top-up."
+  },
+  "na_selectSimError": "Please select a SIM card",
+  "@na_selectSimError": {
+    "description": "Error message shown when the user attempts to proceed without selecting a SIM card."
+  },
+  "na_addCategory": "Add Category",
+  "@na_addCategory": {
+    "description": "Title for the page where the user can dd a new category."
+  },
+  "na_selectImageSource": "Select Image Source",
+  "@na_selectImageSource": {
+    "description": "Prompt to let the user choose the source of an image (camera, gallery, etc.)."
+  },
+  "na_noCategoryFound": "No category found",
+  "@na_noCategoryFound": {
+  "description": "Displayed when there are no categories available to show."
+},
+  "na_uploadIcon": "Upload Icon",
+  "@na_uploadIcon": {
+    "description": "Text prompting the user to upload an icon for the category."
+  },
+  "na_categoryName": "Category Name",
+  "@na_categoryName": {
+    "description": "Label for the input field where the user enters the category name."
+  },
+  "all_event_categories": "All Event Categories",
+  "@all_event_categories": {
+    "description": "Title for the all event categories page."
+  },
+  "na_categoryNameValidation": "Please enter a category name",
+  "@na_categoryNameValidation": {
+    "description": "Validation message when the category name field is empty."
+  },
+  "na_categoryAdded": "Category added successfully",
+  "@na_categoryAdded": {
+    "description": "Message displayed when a category is successfully added."
+  },
+  "na_selectCategoryImage": "Please select an image for the category",
+  "@na_selectCategoryImage": {
+    "description": "Prompt asking the user to select an image for the category."
+  },
+  "na_createItem": "Create Item",
+  "@na_createItem": {
+    "description": "Title for the page where the user creates a new item."
+  },
+  "na_itemName": "Item Name",
+  "@na_itemName": {
+    "description": "Label for the input field where the user enters the item name."
+  },
+  "na_itemPrice": "Item Price",
+  "@na_itemPrice": {
+    "description": "Label for the input field where the user enters the item price."
+  },
+  "na_itemCategory": "Category",
+  "@na_itemCategory": {
+    "description": "Label for the input field where the user selects the item category."
+  },
+  "na_alcoholType": "Type of Alcohol or not?",
+  "@na_alcoholType": {
+    "description": "Label for the input field where the user specifies if the item contains alcohol."
+  },
+  "na_itemDescription": "Item Description",
+  "@na_itemDescription": {
+    "description": "Label for the input field where the user enters the item description."
+  },
+  "na_itemTimings": "Timings",
+  "@na_itemTimings": {
+    "description": "Label for the input field where the user specifies the item's timings."
+  }
+  
+}

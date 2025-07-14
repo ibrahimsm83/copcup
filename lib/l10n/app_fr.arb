@@ -1,0 +1,1659 @@
+{
+  "@@locale": "fr",
+  "getStartedMainTitle": "Découvrez les événements près de chez vous",
+  "@getStartedMainTitle": {
+    "description": "Titre principal affiché sur l'écran de démarrage."
+  },
+  "getStartedSubtitleText": "Des festivals culinaires aux concerts live, explorez une variété d'événements près de chez vous. Personnalisez votre expérience en sélectionnant vos catégories d'événements préférées.",
+  "@getStartedSubtitleText": {
+    "description": "Sous-titre affiché sous le titre principal sur l'écran de démarrage."
+  },
+  "nextButton": "Suivant",
+  "@nextButton": {
+    "description": "Texte pour le bouton suivant."
+  },
+  "letsGetStarted": "Commençons",
+  "@letsGetStarted": {
+    "description": "Texte du titre à l'écran de sélection du rôle."
+  },
+  "pleaseSelectYourRole": "Veuillez sélectionner votre rôle !",
+  "@pleaseSelectYourRole": {
+    "description": "Sous-titre incitant l'utilisateur à sélectionner un rôle."
+  },
+  "roleUser": "Utilisateur",
+  "@roleUser": {
+    "description": "Étiquette pour le rôle d'Utilisateur."
+  },
+  "roleProfessional": "Professionnel",
+  "@roleProfessional": {
+    "description": "Étiquette pour le rôle de Professionnel."
+  },
+  "roleResponsible": "Responsable",
+  "@roleResponsible": {
+    "description": "Étiquette pour le rôle de Responsable."
+  },
+  "selectRoleError": "Veuillez sélectionner votre rôle avant de continuer.",
+  "@selectRoleError": {
+    "description": "Message d'erreur lorsqu'aucun rôle n'est sélectionné et que l'utilisateur appuie sur Suivant."
+  },
+  "diveIntoAccount": "Plongeons dans votre compte !",
+  "@diveIntoAccount": {
+    "description": "Sous-titre encourageant l'utilisateur à se connecter à son compte."
+  },
+  "continueWithGoogle": "Continuer avec Google",
+  "@continueWithGoogle": {
+    "description": "Texte pour le bouton de connexion Google."
+  },
+  "continueWithApple": "Continuer avec Apple",
+  "@continueWithApple": {
+    "description": "Texte pour le bouton de connexion Apple."
+  },
+  "signUp": "S'inscrire",
+  "@signUp": {
+    "description": "Texte pour le bouton d'inscription."
+  },
+  "login": "Se connecter",
+  "@login": {
+    "description": "Texte pour le bouton de connexion."
+  },
+  "signInTitle": "Connectons-nous !",
+  "@signInTitle": {
+    "description": "Titre principal affiché sur l'écran de connexion."
+  },
+  "signInSubtitle": "Remplissez les informations pour vous connecter à votre compte !",
+  "@signInSubtitle": {
+    "description": "Sous-titre affiché sous le titre principal de l'écran de connexion."
+  },
+  "emailHint": "Email",
+  "@emailHint": {
+    "description": "Texte de l'espace réservé pour le champ email."
+  },
+  "passwordHint": "Mot de passe",
+  "@passwordHint": {
+    "description": "Texte de l'espace réservé pour le champ mot de passe."
+  },
+  "rememberMe": "Se souvenir de moi",
+  "@rememberMe": {
+    "description": "Étiquette pour la case à cocher Se souvenir de moi."
+  },
+  "forgotPassword": "Mot de passe oublié ?",
+  "@forgotPassword": {
+    "description": "Texte pour le bouton Mot de passe oublié."
+  },
+  "signInButton": "Se connecter",
+  "@signInButton": {
+    "description": "Texte pour le bouton de connexion."
+  },
+  "continueWithText": "Ou continuez avec",
+  "@continueWithText": {
+    "description": "Texte affiché au-dessus des boutons de connexion sociale."
+  },
+  "forgotPasswordTitle": "Mot de passe oublié",
+  "@forgotPasswordTitle": {
+    "description": "Titre de la page Mot de passe oublié."
+  },
+  "forgotPasswordInstruction": "Sélectionnez les coordonnées à utiliser pour réinitialiser votre mot de passe",
+  "@forgotPasswordInstruction": {
+    "description": "Texte d'instruction sur la page Mot de passe oublié, incitant l'utilisateur à sélectionner une méthode de contact."
+  },
+  "viaEmail": "Par email",
+  "@viaEmail": {
+    "description": "Étiquette pour l'option de contact par email."
+  },
+  "viaSms": "Par SMS",
+  "@viaSms": {
+    "description": "Étiquette pour l'option de contact par SMS."
+  },
+  "emailContactExample": "priscilla.frank26@gmail.com",
+  "@emailContactExample": {
+    "description": "Exemple d'adresse email affiché pour l'option de contact par email."
+  },
+  "smsContactExample": "(+1) 480-894-5529",
+  "@smsContactExample": {
+    "description": "Exemple de numéro de téléphone affiché pour l'option de contact par SMS."
+  },
+  "continueButton": "Continuer",
+  "@continueButton": {
+    "description": "Texte pour le bouton Continuer."
+  },
+  "otpVerificationTitle": "Vérification OTP",
+  "@otpVerificationTitle": {
+    "description": "Titre de la page de vérification OTP."
+  },
+  "otpVerificationInstruction": "Nous avons envoyé un lien de réinitialisation à votre email, entrez le code à 4 chiffres mentionné dans l'email",
+  "@otpVerificationInstruction": {
+    "description": "Texte d'instruction sur la page de vérification OTP."
+  },
+  "verifyButtonText": "Vérifier",
+  "@verifyButtonText": {
+    "description": "Texte pour le bouton Vérifier."
+  },
+  "invalidOtpMessage": "Veuillez entrer un OTP à 4 chiffres.",
+  "@invalidOtpMessage": {
+    "description": "Message d'erreur affiché lorsque l'utilisateur entre un OTP invalide."
+  },
+  "resetPasswordTitle": "Réinitialiser le mot de passe",
+  "@resetPasswordTitle": {
+    "description": "Titre pour la page de réinitialisation du mot de passe"
+  },
+  "resetPasswordDescription": "Réinitialisez votre mot de passe pour retrouver l'accès à votre compte.",
+  "@resetPasswordDescription": {
+    "description": "Texte descriptif pour la page de réinitialisation du mot de passe"
+  },
+  "newPasswordHint": "Entrez votre nouveau mot de passe",
+  "@newPasswordHint": {
+    "description": "Texte d'indication pour le champ du nouveau mot de passe"
+  },
+  "confirmPasswordLabels": "Confirmez votre mot de passe",
+  "@confirmPasswordLabels": {
+    "description": "Libellé pour le champ de confirmation du mot de passe"
+  },
+  "resetPasswordButton": "Réinitialiser le mot de passe",
+  "@resetPasswordButton": {
+    "description": "Texte pour le bouton de réinitialisation du mot de passe"
+  },
+  "signUpTitle": "Inscription !",
+  "@signUpTitle": {
+    "description": "Titre principal pour l'écran d'inscription."
+  },
+  "searchTitleHome": "Ce que vous cherchez ?",
+  "@searchTitleHome": {
+    "description": "Texte pour le bouton afin de voir le champ de recherche."
+  },
+  "nearestEvents": "Événements les plus proches",
+  "@nearestEvents": {
+    "description": "Texte pour le bouton afin de voir les événements les plus proches."
+  },
+  "signUpSubtitle": "Remplissez les informations pour créer un compte !",
+  "@signUpSubtitle": {
+    "description": "Texte du sous-titre sur l'écran d'inscription."
+  },
+  "nameHint": "Nom",
+  "@nameHint": {
+    "description": "Espace réservé pour le champ du nom."
+  },
+  "surNameHint": "Prénom",
+  "@surNameHint": {
+    "description": "Espace réservé pour le champ du prénom."
+  },
+  "countryHint": "(+1) 724-848-1225",
+  "@countryHint": {
+    "description": "Espace réservé pour le champ du pays."
+  },
+  "changePasswordTitle": "Changer le mot de passe",
+  "@changePasswordTitle": {
+    "description": "Titre de la page de changement de mot de passe."
+  },
+  "oldPasswordLabel": "Ancien mot de passe",
+  "@oldPasswordLabel": {
+    "description": "Étiquette pour le champ du mot de passe actuel."
+  },
+  "newPasswordLabel": "Nouveau mot de passe",
+  "@newPasswordLabel": {
+    "description": "Étiquette pour le champ du nouveau mot de passe."
+  },
+  "confirmPasswordLabel": "Confirmer le mot de passe",
+  "@confirmPasswordLabel": {
+    "description": "Étiquette pour le champ de confirmation du mot de passe."
+  },
+  "changePasswordButton": "Changer le mot de passe",
+  "@changePasswordButton": {
+    "description": "Texte pour le bouton Changer le mot de passe."
+  },
+  "congratulationsText": "Félicitations",
+  "@congratulationsText": {
+    "description": "Titre pour la fenêtre de succès après le changement de mot de passe."
+  },
+  "accountReadyMessage": "Votre compte est prêt à être utilisé. Vous serez",
+  "@accountReadyMessage": {
+    "description": "Message affiché dans la fenêtre de succès après le changement du mot de passe."
+  },
+  "redirectedText": "redirigé vers la page d'accueil dans quelques",
+  "@redirectedText": {
+    "description": "Message de redirection"
+  },
+  "secondsText": "secondes.",
+  "@secondsText": {
+    "description": "Texte des secondes"
+  },
+  "eventsCategoriesTitle": "Catégories d'événements",
+  "@eventsCategoriesTitle": {
+    "description": "Titre pour la section des catégories d'événements."
+  },
+  "seeAllButton": "VOIR TOUT",
+  "@seeAllButton": {
+    "description": "Texte pour le bouton afin de voir toutes les catégories ou événements."
+  },
+  "eventsForYouTitle": "Événements pour vous",
+  "@eventsForYouTitle": {
+    "description": "Titre pour la section des événements pour vous."
+  },
+  "findEventsTitle": "Trouver des événements",
+  "@findEventsTitle": {
+    "description": "Titre de la page Trouver des événements."
+  },
+  "aroundMeSectionTitle": "Autour de moi",
+  "@aroundMeSectionTitle": {
+    "description": "Titre pour la section des événements autour de moi."
+  },
+  "mostPopularSectionTitle": "Les plus populaires",
+  "@mostPopularSectionTitle": {
+    "description": "Titre pour la section des événements les plus populaires."
+  },
+  "lastOrdersSectionTitle": "Dernières commandes",
+  "@lastOrdersSectionTitle": {
+    "description": "Titre pour la section des dernières commandes d'événements."
+  },
+  "searchBarHint": "Rechercher...",
+  "@searchBarHint": {
+    "description": "Texte de l'espace réservé pour la barre de recherche."
+  },
+  "na_seeMore": "Voir plus",
+  "@na_seeMore": {
+  "description": "Affiché comme un bouton ou un lien pour révéler plus de contenu."
+  },
+  "na_seeLess": "Voir moins",
+  "@na_seeLess": {
+  "description": "Affiché comme un bouton ou un lien pour réduire ou masquer le contenu supplémentaire."
+  },
+  "na_addToCart": "Ajouter au panier",
+  "@na_addToCart": {
+  "description": "Affiché sur un bouton permettant à l'utilisateur d'ajouter un article au panier."
+  },
+  "na_itemCount": "Nombre d'articles",
+  "@na_itemCount": {
+  "description": "Étiquette indiquant le nombre d'articles dans le panier ou la liste."
+  },
+  "na_noNearestEventFound": "Aucun événement proche trouvé",
+  "@na_noNearestEventFound": {
+  "description": "S'affiche lorsqu'aucun événement à venir ou proche n'est disponible."
+  },
+  "na_noItemInCart": "Aucun article dans le panier",
+  "@na_noItemInCart": {
+  "description": "Affiché lorsque le panier de l'utilisateur est vide."
+  },
+  "na_noCategoryFound": "Aucune catégorie trouvée",
+"@na_noCategoryFound": {
+  "description": "S'affiche lorsqu'aucune catégorie n'est disponible."
+},
+  "noEventsFoundMessage": "Aucun événement trouvé.",
+  "@noEventsFoundMessage": {
+    "description": "Message affiché lorsqu'aucun événement ne correspond à la recherche."
+  },
+  "allCategoriesTitle": "Toutes les catégories",
+  "@allCategoriesTitle": {
+    "description": "Titre de la page Toutes les catégories."
+  },
+  "scanQrTitle": "Scanner le code QR",
+  "@scanQrTitle": {
+    "description": "Titre de la page Scanner le code QR."
+  },
+  "orderHistory": "Historique des commandes",
+  "@orderHistory": {
+    "description": "Titre pour la page de l'historique des commandes."
+  },
+  "foodLists": "Liste des aliments",
+  "@foodLists": {
+    "description": "Titre pour la page de la liste des aliments."
+  },
+  "qrTitle": "Code QR",
+  "@qrTitle": {
+    "description": "Titre pour la page de scan du code QR."
+  },
+  "scanQrSubtitle": "Le code QR sera détecté automatiquement lorsque vous le positionnerez entre les lignes directrices.",
+  "@scanQrSubtitle": {
+    "description": "Sous-titre expliquant comment scanner le code QR."
+  },
+  "scanQrButton": "Scanner",
+  "@scanQrButton": {
+    "description": "Titre pour la page de scan du code QR."
+  },
+  "contactUsTitle": "Contactez-nous",
+  "@contactUsTitle": {
+    "description": "Titre de la page Contactez-nous."
+  },
+  "messageFieldLabel": "Message",
+  "@messageFieldLabel": {
+    "description": "Étiquette pour le champ de saisie du message."
+  },
+  "messageFieldHint": "Entrez ici votre message...",
+  "@messageFieldHint": {
+    "description": "Texte d'indice pour le champ de saisie du message."
+  },
+  "submitButton": "Envoyer",
+  "@submitButton": {
+    "description": "Texte pour le bouton Envoyer."
+  },
+  "messageSubmittedSnackbar": "Message soumis avec succès",
+  "@messageSubmittedSnackbar": {
+    "description": "Message affiché lorsque le formulaire de contact est soumis avec succès."
+  },
+  "editProfileTitle": "Modifier le profil",
+  "@editProfileTitle": {
+    "description": "Titre de la page Modifier le profil."
+  },
+  "editProfileButton": "Modifier le profil",
+  "@editProfileButton": {
+    "description": "Texte pour le bouton Modifier le profil."
+  },
+  "notificationTitle": "Notifications",
+  "@notificationTitle": {
+    "description": "Titre de la page Notifications."
+  },
+  "todayLabel": "Aujourd'hui",
+  "@todayLabel": {
+    "description": "Étiquette pour les notifications reçues aujourd'hui."
+  },
+  "yesterdayLabel": "Hier",
+  "@yesterdayLabel": {
+    "description": "Étiquette pour les notifications reçues hier."
+  },
+  "profilePageTitle": "Profil",
+  "@profilePageTitle": {
+    "description": "Titre de la page Profil."
+  },
+  "generalInformationTitle": "Informations générales",
+  "@generalInformationTitle": {
+    "description": "Titre de la section informations générales."
+  },
+  "languageOption": "Langue",
+  "@languageOption": {
+    "description": "Titre de l'option pour les paramètres de langue."
+  },
+  "deleteAccountOption": "Supprimer le compte",
+  "@deleteAccountOption": {
+    "description": "Titre de l'option pour supprimer le compte."
+  },
+  "transactionOption": "Transaction",
+  "@transactionOption": {
+    "description": "Titre de l'option pour consulter les transactions."
+  },
+  "termsConditionOption": "Termes et conditions",
+  "@termsConditionOption": {
+    "description": "Titre de l'option pour les termes et conditions."
+  },
+  "logoutOption": "Se déconnecter",
+  "@logoutOption": {
+    "description": "Titre de l'option pour se déconnecter."
+  },
+  "deleteConfirmation": "Êtes-vous sûr de vouloir supprimer ?",
+  "@deleteConfirmation": {
+    "description": "Message de confirmation pour la suppression du compte."
+  },
+  "logoutConfirmation": "Êtes-vous sûr de vouloir vous déconnecter ?",
+  "@logoutConfirmation": {
+    "description": "Message de confirmation pour la déconnexion."
+  },
+  "cancelButton": "Annuler",
+  "@cancelButton": {
+    "description": "Texte pour le bouton Annuler."
+  },
+  "yesLogoutButton": "Oui, Se déconnecter",
+  "@yesLogoutButton": {
+    "description": "Texte pour le bouton de confirmation de la déconnexion."
+  },
+  "userResponsibilitiesTitle": "Responsabilités de l'utilisateur",
+  "@userResponsibilitiesTitle": {
+    "description": "Titre de la section des responsabilités de l'utilisateur."
+  },
+  "userResponsibilitiesContent": "Les utilisateurs doivent interagir avec l'application de manière respectueuse et responsable. Cela inclut le maintien de la confidentialité des informations de compte, la signalisation de toute activité suspecte et le respect des directives de la communauté. Les utilisateurs ne doivent pas adopter un comportement perturbant pour les autres ni enfreindre les lois en vigueur.",
+  "@userResponsibilitiesContent": {
+    "description": "Contenu de la section des responsabilités de l'utilisateur."
+  },
+  "dataPrivacyTitle": "Confidentialité des données",
+  "@dataPrivacyTitle": {
+    "description": "Titre de la section de confidentialité des données."
+  },
+  "dataPrivacyContent": "Nous priorisons votre vie privée et nous engageons à protéger vos informations personnelles. Notre application collecte des données conformément à notre politique de confidentialité, qui décrit comment nous recueillons, utilisons et protégeons vos informations. En utilisant l'application, vous consentez à nos pratiques en matière de données, y compris l'utilisation de cookies et de technologies de suivi pour améliorer votre expérience utilisateur.",
+  "@dataPrivacyContent": {
+    "description": "Contenu de la section de confidentialité des données."
+  },
+  "conditionsTitle": "Conditions",
+  "@conditionsTitle": {
+    "description": "Titre de la section des conditions."
+  },
+  "conditionsContent": "Les utilisateurs doivent interagir avec l'application de manière respectueuse et responsable. Cela inclut le maintien de la confidentialité des informations de compte, la signalisation de toute activité suspecte et le respect des directives de la communauté. Les utilisateurs ne doivent pas adopter un comportement perturbant pour les autres ni enfreindre les lois en vigueur.",
+  "@conditionsContent": {
+    "description": "Contenu de la section des conditions."
+  },
+  "recentPaymentsTitle": "Paiements récents",
+  "@recentPaymentsTitle": {
+    "description": "Titre de la section des paiements récents."
+  },
+  "favoritesEventsTitle": "Événements favoris",
+  "@favoritesEventsTitle": {
+    "description": "Titre de la page des événements favoris."
+  },
+  "favoriteEventsSubtitle": "Il est temps d'acheter votre plat préféré.",
+  "@favoriteEventsSubtitle": {
+    "description": "Sous-titre pour la page des événements favoris."
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Étiquette pour la section description."
+  },
+  "foodList": "Liste de plats",
+  "@foodList": {
+    "description": "Étiquette pour la section de la liste des plats."
+  },
+  "dishes": "Plats",
+  "@dishes": {
+    "description": "Étiquette pour la section des plats."
+  },
+  "drinks": "Boissons",
+  "@drinks": {
+    "description": "Étiquette pour la section des boissons."
+  },
+  "ageVerification": "Vérification de l'âge",
+  "@ageVerification": {
+    "description": "Titre du dialogue de vérification de l'âge."
+  },
+  "ageVerificationMessage": "Veuillez confirmer votre âge",
+  "@ageVerificationMessage": {
+    "description": "Message pour le dialogue de vérification de l'âge."
+  },
+  "under18Button": "J'ai moins de 18 ans",
+  "@under18Button": {
+    "description": "Texte du bouton pour les utilisateurs de moins de 18 ans."
+  },
+  "over18Button": "J'ai 18 ans ou plus",
+  "@over18Button": {
+    "description": "Texte du bouton pour les utilisateurs de 18 ans et plus."
+  },
+  "ageWarning": "Vous devez avoir plus de 18 ans et l'abus d'alcool est dangereux pour la santé",
+  "@ageWarning": {
+    "description": "Message d'avertissement pour la restriction d'âge et l'alcool."
+  },
+  "goToCart": "Aller au panier",
+  "@goToCart": {
+    "description": "Texte du bouton pour naviguer vers le panier."
+  },
+  "myCart": "Mon panier",
+  "@myCart": {
+    "description": "Titre de la page Mon panier."
+  },
+  "subtotal": "Sous-total",
+  "@subtotal": {
+    "description": "Étiquette pour le montant du sous-total dans le panier."
+  },
+  "na_itemId": "ID de l'article",
+  "@na_itemId": {
+  "description": "Étiquette pour l'identifiant unique d'un article."
+  },
+  "na_somethingWentWrong": "Quelque chose a mal tourné. Veuillez réessayer",
+"@na_somethingWentWrong": {
+  "description": "Affiché lorsqu'une erreur inattendue se produit et que l'utilisateur est invité à réessayer."
+}
+,
+"na_noEventAvailable": "Aucun événement disponible",
+"@na_noEventAvailable": {
+  "description": "Affiché lorsqu'il n'y a aucun événement à afficher."
+}
+,
+"na_from": "à partir de",
+"@na_from": {
+  "description": "Utilisé pour indiquer le point de départ d'une plage, comme un prix ou une date."
+}
+,
+"na_orderBeingProcessed": "est en cours de traitement. Vous avez commandé :",
+"@na_orderBeingProcessed": {
+  "description": "Message indiquant que la commande est en cours de traitement, suivi d'une liste des articles commandés."
+}
+,
+"na_useConfirmationToken": "Utiliser le jeton de confirmation",
+"@na_useConfirmationToken": {
+  "description": "Invite ou instruction pour utiliser un jeton de confirmation pour la vérification."
+}
+,
+"na_orderDelivered": "Commande livrée",
+"@na_orderDelivered": {
+  "description": "Affiché lorsqu'une commande a été livrée avec succès."
+}
+,
+"na_writeReview": "Écrire un avis",
+"@na_writeReview": {
+  "description": "Bouton ou invite encourageant l'utilisateur à laisser un avis."
+}
+,
+"na_noCancelledOrder": "Aucune commande annulée",
+  "@na_noCancelledOrder": {
+  "description": "Affiché lorsqu'il n'y a aucune commande annulée."
+  },
+  "na_sendOtpDeleteAccountSuccess": "OTP envoyé avec succès pour supprimer le compte",
+  "@na_sendOtpDeleteAccountSuccess": {
+  "description": "Message de confirmation indiquant que l'OTP a été envoyé avec succès pour la suppression du compte."
+  },
+  "na_errorSendOtp": "Erreur lors de l'envoi de l'OTP",
+  "@na_errorSendOtp": {
+  "description": "Affiché lorsqu'il y a une erreur lors de l'envoi de l'OTP."
+  }, 
+  "na_categories": "Catégories",
+  "@na_categories": {
+  "description": "Étiquette pour une section affichant différentes catégories."
+  },
+  "na_foods": "Aliments",
+  "@na_foods": {
+  "description": "Étiquette pour une section affichant différents types d'aliments."
+  },
+  "na_noFoodItemFound": "Aucun aliment trouvé",
+  "@na_noFoodItemFound": {
+  "description": "Affiché lorsqu'aucun aliment n'est disponible à afficher."
+  },
+  "na_outOfStock": "Rupture de stock",
+  "@na_outOfStock": {
+  "description": "Affiché lorsqu'un article n'est pas disponible en stock."
+  },
+  "na_verifyConfirmationCode": "Vérifier le code de confirmation",
+  "@na_verifyConfirmationCode": {
+  "description": "Bouton ou invite pour confirmer le code de vérification saisi par l'utilisateur."
+  },
+  "na_verificationThankYou": "pour vérification. Merci pour votre achat !",
+  "@na_verificationThankYou": {
+  "description": "Message confirmant qu'une étape de vérification est terminée et remerciant l'utilisateur pour son achat."
+  },
+  "na_orderId": "ID de commande",
+  "@na_orderId": {
+  "description": "Étiquette pour l'identifiant unique d'une commande client."
+  },
+  "na_noCompletedOrder": "Aucune commande terminée",
+  "@na_noCompletedOrder": {
+  "description": "Affiché lorsqu'il n'y a aucune commande marquée comme terminée."
+},
+"na_forTotalOf": "pour un total de",
+"@na_forTotalOf": {
+  "description": "Expression utilisée pour indiquer le montant ou le coût total."
+},
+"na_noPopularEvents": "Aucun événement populaire",
+"@na_noPopularEvents": {
+  "description": "Affiché lorsqu'il n'y a aucun événement populaire à afficher."
+},
+"na_noLatestOrdersAvailable": "Aucune commande récente disponible",
+"@na_noLatestOrdersAvailable": {
+  "description": "Affiché lorsqu'il n'y a aucune commande récente à afficher."
+},
+"na_selectOrderFirst": "Veuillez d'abord sélectionner une commande",
+"@na_selectOrderFirst": {
+  "description": "Invite demandant à l'utilisateur de sélectionner une commande avant de continuer."
+},
+"na_mostRecentEvents": "Événements les plus récents",
+"@na_mostRecentEvents": {
+  "description": "Étiquette pour une section affichant les événements les plus récents."
+},
+"na_noRecentEvents": "Aucun événement récent",
+"@na_noRecentEvents": {
+  "description": "Affiché lorsqu'il n'y a aucun événement récent à afficher."
+},
+  "na_enterCouponCode": "Veuillez entrer un code coupon",
+  "@na_enterCouponCode": {
+  "description": "Invite demandant à l'utilisateur de saisir un code coupon ou de réduction."
+  },
+  "delivery": "Livraison",
+  "@delivery": {
+    "description": "Étiquette pour les frais de livraison dans le panier."
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Étiquette pour le montant total dans le panier."
+  },
+  "na_viewProfile": "Voir le profil",
+  "@na_viewProfile": {
+    "description": "Bouton ou étiquette permettant à l'utilisateur de consulter les détails de son profil."
+  },
+  "checkOut": "Passer à la caisse",
+  "@checkOut": {
+    "description": "Texte du bouton pour passer à la caisse depuis le panier."
+  },
+  "checkout": "Caisse",
+  "@checkout": {
+    "description": "Titre de la page Caisse."
+  },
+   "na_confirmationTokenVerification": "Vérification du jeton de confirmation",
+  "@na_confirmationTokenVerification": {
+    "description": "Affiché pendant le processus de vérification du jeton."
+  },
+  "na_orderCancel": "Commande annulée",
+  "@na_orderCancel": {
+    "description": "Indique que la commande de l'utilisateur a été annulée."
+  },
+  "na_orderReady": "Commande prête",
+  "@na_orderReady": {
+    "description": "Indique que la commande de l'utilisateur est prête à être récupérée ou livrée."
+  },
+  "na_enterConfirmationCode": "Veuillez entrer le code de confirmation pour votre commande afin de terminer le processus.",
+  "@na_enterConfirmationCode": {
+    "description": "Invite les utilisateurs à saisir un code de confirmation pour leur commande."
+  },
+  "information": "Informations",
+  "@information": {
+    "description": "Étiquette pour la section des informations dans la page de caisse."
+  },
+  "applyCoupon": "Appliquer le coupon",
+  "@applyCoupon": {
+    "description": "Texte de l'espace réservé pour le champ du coupon."
+  },
+  "apply": "Appliquer",
+  "@apply": {
+    "description": "Texte du bouton pour appliquer un code de coupon."
+  },
+  "applyCouponSuccess": "Coupon appliqué avec succès",
+  "@applyCouponSuccess": {
+    "description": "Message affiché lorsque le coupon est appliqué avec succès."
+  },
+  "payNow": "Payer maintenant",
+  "@payNow": {
+    "description": "Texte du bouton pour procéder au paiement."
+  },
+  "selectPaymentMethod": "Sélectionner le mode de paiement",
+  "@selectPaymentMethod": {
+    "description": "Titre de l'écran de sélection du mode de paiement."
+  },
+  "receiveBillByEmail": "Recevoir la facture par mail",
+  "@receiveBillByEmail": {
+    "description": "Étiquette pour l'option de recevoir la facture par e-mail."
+  },
+  "successMessagePart1": "Vous avez passé une commande pour une fête entre amis avec succès. Profitez de l'événement !",
+  "@successMessagePart1": {
+    "description": "Première partie du message de succès dans la fenêtre de dialogue."
+  },
+   "na_productOutOfStock": "Ce produit est en rupture de stock",
+  "@na_productOutOfStock": {
+    "description": "Affiché lorsqu'un produit spécifique n'est pas disponible à l'achat."
+  },
+   "na_bringBackToStock": "Remettre en stock",
+  "@na_bringBackToStock": {
+    "description": "Étiquette ou bouton permettant de demander qu'un produit soit remis en stock."
+  },
+   "na_selectImageSource": "Sélectionnez la source de l'image",
+  "@na_selectImageSource": {
+    "description": "Invite l'utilisateur à choisir la source d'une image (appareil photo, galerie, etc.)."
+  },
+   "na_fillAllInputs": "Veuillez remplir tous les champs",
+  "@na_fillAllInputs": {
+    "description": "Message d'avertissement demandant à l'utilisateur de remplir tous les champs obligatoires."
+  },
+   "na_emailChange": "Changement d'e-mail",
+  "@na_emailChange": {
+    "description": "Libellé ou titre pour le processus ou l'option de changement de l'adresse e-mail de l'utilisateur."
+  },
+  "na_enterEmailToChange": "Entrez l'e-mail à modifier",
+  "@na_enterEmailToChange": {
+    "description": "Texte demandant à l'utilisateur de saisir l'adresse e-mail à modifier."
+  },
+   "na_enterVerifiedEmail": "Veuillez entrer un e-mail vérifié",
+  "@na_enterVerifiedEmail": {
+    "description": "Invite l'utilisateur à saisir une adresse e-mail vérifiée."
+  },
+  "na_selectLocation": "Sélectionner l'emplacement",
+  "@na_selectLocation": {
+    "description": "Invite l'utilisateur à choisir un emplacement."
+  },
+  "sendRequest": "Envoyer la demande",
+"@sendRequest": {
+  "description": "Label du bouton pour envoyer une demande."
+}
+,
+  "na_noSellerFound": "Aucun vendeur trouvé",
+  "@na_noSellerFound": {
+    "description": "Affiché lorsqu'aucun vendeur n'est disponible ou trouvé dans le système."
+  },
+  "na_enrolled": "Inscrit",
+  "@na_enrolled": {
+    "description": "Indique que l'utilisateur est inscrit avec succès à quelque chose (par exemple, un cours, un service ou un événement)."
+  },
+  "na_noFavEventsFound": "Aucun événement favori trouvé",
+  "@na_noFavEventsFound": {
+    "description": "Affiché lorsqu'aucun événement favori n'a été enregistré par l'utilisateur."
+  },
+  "na_noFavoriteEventsFound": "Aucun événement favori trouvé.",
+  "@na_noFavoriteEventsFound": {
+    "description": "Affiché lorsque l'utilisateur n'a marqué aucun événement comme favori."
+  },
+  "successMessagePart2": "avec des amis, profitez de l'événement !",
+  "@successMessagePart2": {
+    "description": "Deuxième partie du message de succès dans la fenêtre de dialogue."
+  },
+  "trackOrder": "Suivre la commande",
+  "@trackOrder": {
+    "description": "Texte du bouton pour naviguer vers la page de suivi des commandes."
+  },
+  "goToHome": "Aller à l'accueil",
+  "@goToHome": {
+    "description": "Texte du bouton pour naviguer vers la page d'accueil."
+  },
+  "addNewCard": "Ajouter une nouvelle carte",
+  "@addNewCard": {
+    "description": "Texte du bouton pour ajouter une nouvelle carte dans l'écran des méthodes de paiement."
+  },
+  "cardNumber": "Numéro de carte",
+  "@cardNumber": {
+    "description": "Étiquette et espace réservé pour le champ du numéro de carte."
+  },
+  "cardHolderName": "Nom du titulaire de la carte",
+  "@cardHolderName": {
+    "description": "Étiquette et espace réservé pour le champ du nom du titulaire de la carte."
+  },
+  "expiryDate": "Date d'expiration",
+  "@expiryDate": {
+    "description": "Étiquette et espace réservé pour le champ de la date d'expiration."
+  },
+  "cvv": "CVV",
+  "@cvv": {
+    "description": "Étiquette et espace réservé pour le champ CVV."
+  },
+  "addCard": "Ajouter une carte",
+  "@addCard": {
+    "description": "Texte du bouton pour ajouter une nouvelle carte."
+  },
+  "showQrCode": "Afficher le code QR",
+  "@showQrCode": {
+    "description": "Texte du bouton pour afficher le dialogue du code QR."
+  },
+  "scanQr": "Scanner le code QR",
+  "@scanQr": {
+    "description": "Titre du dialogue du code QR."
+  },
+  "qrCodeInstruction": "Scannez le code QR pour retirer la commande",
+  "@qrCodeInstruction": {
+    "description": "Texte d'instruction pour scanner le code QR."
+  },
+  "qrCodeWarning": "Le code QR est personnel. Ne le partagez avec personne. Le partage de ce code peut entraîner un accès non autorisé à votre commande.",
+  "@qrCodeWarning": {
+    "description": "Texte d'avertissement concernant la confidentialité du code QR."
+  },
+  "cancelOrder": "Annuler la commande",
+  "@cancelOrder": {
+    "description": "Texte du bouton pour annuler la commande."
+  },
+  "myOrder": "Ma commande",
+  "@myOrder": {
+    "description": "Titre de la page Ma commande."
+  },
+  "noOrdersYet": "Pas de commandes pour l'instant",
+  "@noOrdersYet": {
+    "description": "Message indiquant que l'utilisateur n'a pas encore passé de commande."
+  },
+  "startOrdering": "Commencer à commander",
+  "@startOrdering": {
+    "description": "Texte du bouton pour commencer le processus de commande."
+  },
+  "allOrders": "Toutes les commandes",
+  "@allOrders": {
+    "description": "Étiquette de l'onglet pour voir toutes les commandes."
+  },
+  "completed": "Terminé",
+  "@completed": {
+    "description": "Étiquette de l'onglet pour voir les commandes terminées."
+  },
+  "cancelled": "Annulé",
+  "@cancelled": {
+    "description": "Étiquette de l'onglet pour voir les commandes annulées."
+  },
+  "leaveReview": "Laisser un avis",
+  "@leaveReview": {
+    "description": "Texte du bouton pour laisser un avis sur une commande."
+  },
+  "orderAgain": "Commander à nouveau",
+  "@orderAgain": {
+    "description": "Texte du bouton pour recommander une commande précédente."
+  },
+  "orderSuccess": "Vous avez passé avec succès la commande de la fête.",
+  "@orderSuccess": {
+    "description": "Message affiché lorsque la commande pour une fête a été passée avec succès."
+  },
+  "orderWithFriends": "Profitez de l'événement avec vos amis.",
+  "@orderWithFriends": {
+    "description": "Message encourageant les utilisateurs à profiter de l'événement avec leurs amis."
+  },
+  "recentsSearch": "Recherches récentes",
+  "@recentsSearch": {
+    "description": "Titre de la section des recherches récentes."
+  },
+  "searchHere": "Rechercher ici",
+  "@searchHere": {
+    "description": "Titre pour la page de recherche."
+  },
+  "createNewPin": "Créer un nouveau code PIN",
+  "@createNewPin": {
+    "description": "Titre de la page pour créer un nouveau code PIN."
+  },
+  "confirmNewPassword": "Confirmer le nouveau mot de passe",
+  "@confirmNewPassword": {
+    "description": "Texte d'indice pour le champ de confirmation du nouveau mot de passe."
+  },
+  "createYourNewPassword": "Créez votre nouveau mot de passe",
+  "@createYourNewPassword": {
+    "description": "Texte d'en-tête incitant l'utilisateur à créer un nouveau mot de passe."
+  },
+  "addPinNumber": "Ajoutez un numéro PIN pour sécuriser davantage votre compte",
+  "@addPinNumber": {
+    "description": "Texte incitant l'utilisateur à ajouter un code PIN pour une sécurité renforcée."
+  },
+  "bottomBarHome": "Accueil",
+  "@bottomBarHome": {
+    "description": "Étiquette pour l'onglet d'accueil dans la barre de navigation inférieure du vendeur."
+  },
+  "bottomBarStocks": "Stocks",
+  "@bottomBarStocks": {
+    "description": "Étiquette pour l'onglet des stocks dans la barre de navigation inférieure du vendeur."
+  },
+  "bottomBarOrders": "Commandes",
+  "@bottomBarOrders": {
+    "description": "Étiquette pour l'onglet des commandes dans la barre de navigation inférieure du vendeur."
+  },
+  "bottomBarProfile": "Profil",
+  "@bottomBarProfile": {
+    "description": "Étiquette pour l'onglet du profil dans la barre de navigation inférieure du vendeur."
+  },
+  "sellerHomeActionPrompt": "Que voulez-vous \nfaire en tant que vendeur ?",
+  "@sellerHomeActionPrompt": {
+    "description": "Invite pour les actions du vendeur sur la page d'accueil du vendeur."
+  },
+  "sellerHomeSwitchToResponsibleMode": "Passer en mode responsable",
+  "@sellerHomeSwitchToResponsibleMode": {
+    "description": "Étiquette pour activer le mode responsable."
+  },
+  "sellerHomeOrdersTaken": "Commandes prises",
+  "@sellerHomeOrdersTaken": {
+    "description": "Étiquette pour le nombre de commandes prises par le vendeur."
+  },
+  "sellerHomeByMe": "par moi",
+  "@sellerHomeByMe": {
+    "description": "Indique les commandes prises par le vendeur."
+  },
+  "coupons": "Coupons",
+  "@coupons": {
+    "description": "Texte pour l'option de paramètre pour accéder à la section des coupons."
+  },
+  "delivery_charges": "Frais de livraison",
+  "@delivery_charges": {
+    "description": "Texte pour l'option de paramètre pour accéder à la section des frais de livraison."
+  },
+  "messages": "Messages",
+  "@messages": {
+    "description": "Texte pour l'option de paramètre pour accéder à la section des messages."
+  },
+  "privacy": "Confidentialité",
+  "@privacy": {
+    "description": "Texte pour l'option de paramètre pour accéder à la section de confidentialité."
+  },
+  "create_delivery_charges": "Créer des frais de livraison",
+  "@create_delivery_charges": {
+    "description": "Titre de la page pour créer des frais de livraison."
+  },
+  "base_delivery_fee": "Frais de livraison de base",
+  "@base_delivery_fee": {
+    "description": "Étiquette pour le champ des frais de livraison de base."
+  },
+  "enter_delivery_fee": "Saisir les frais de livraison",
+  "@enter_delivery_fee": {
+    "description": "Texte de l'espace réservé pour le champ des frais de livraison de base."
+  },
+  "delivery_per_km": "Livraison par km",
+  "@delivery_per_km": {
+    "description": "Étiquette pour le champ des frais de livraison par kilomètre."
+  },
+  "enter_value": "Saisir la valeur",
+  "@enter_value": {
+    "description": "Texte de l'espace réservé pour le champ de la livraison par km."
+  },
+  "minimum_order_fee": "Frais de commande minimum",
+  "@minimum_order_fee": {
+    "description": "Étiquette pour le champ des frais de commande minimum."
+  },
+  "order_fee": "Frais de commande",
+  "@order_fee": {
+    "description": "Texte de l'espace réservé pour le champ des frais de commande minimum."
+  },
+  "fee_threshold": "Seuil des frais",
+  "@fee_threshold": {
+    "description": "Étiquette pour le champ du seuil de livraison gratuite."
+  },
+  "threshold": "Seuil",
+  "@threshold": {
+    "description": "Texte de l'espace réservé pour le champ du seuil des frais."
+  },
+  "create": "Créer",
+  "@create": {
+    "description": "Texte sur le bouton pour créer les frais de livraison."
+  },
+  "faqs": "FAQ",
+  "@faqs": {
+    "description": "Texte pour l'option de paramètre pour accéder à la section des FAQ."
+  },
+  "general_information": "Informations générales",
+  "@general_information": {
+    "description": "Titre pour la section des informations générales."
+  },
+  "chats": "Chats",
+  "@chats": {
+    "description": "Titre de la page de la boîte de réception pour les chats"
+  },
+  "no_chat_found": "Aucun chat trouvé",
+  "@no_chat_found": {
+    "description": "Texte affiché lorsqu'aucun chat n'est trouvé"
+  },
+  "help": "Aide",
+  "@help": {
+    "description": "Texte pour l'option de paramètre pour accéder à la section d'aide."
+  },
+  "language": "Langue",
+  "@language": {
+    "description": "Texte pour l'option de paramètre pour accéder aux paramètres de langue."
+  },
+  "logout": "Déconnexion",
+  "@logout": {
+    "description": "Texte pour le bouton permettant de se déconnecter."
+  },
+  "pick_image": "Choisir une image",
+  "@pick_image": {
+    "description": "Texte pour l'option de choisir une image."
+  },
+  "camera": "Appareil photo",
+  "@camera": {
+    "description": "Texte pour l'option de l'appareil photo pour prendre une photo."
+  },
+  "gallery": "Galerie",
+  "@gallery": {
+    "description": "Texte pour l'option de la galerie pour sélectionner une image."
+  },
+  "generate_coupon": "Générer un coupon",
+  "@generate_coupon": {
+    "description": "Titre de la page où le vendeur peut créer un coupon."
+  },
+  "sellerHomeOrdersBySomeone": "Commandes prises par quelqu'un d'autre",
+  "@sellerHomeOrdersBySomeone": {
+    "description": "Indique les commandes prises par une autre personne."
+  },
+  "set_up_maximum_orders_limit": "Configurez votre limite maximale de commandes..",
+  "@set_up_maximum_orders_limit": {
+    "description": "Texte invitant l'utilisateur à configurer le nombre maximum de commandes qu'il peut accepter."
+  },
+  "discount_amount": "Montant de la remise",
+  "@discount_amount": {
+    "description": "Étiquette pour le champ du montant de la remise."
+  },
+  "enter_amount": "Entrez le montant",
+  "@enter_amount": {
+    "description": "Texte d'espace réservé pour le champ du montant de la remise."
+  },
+  "discount_percentage": "Pourcentage de remise",
+  "@discount_percentage": {
+    "description": "Étiquette pour le champ du pourcentage de remise."
+  },
+  "enter_percentage": "Entrez le pourcentage",
+  "@enter_percentage": {
+    "description": "Texte d'espace réservé pour le champ du pourcentage de remise."
+  },
+  "valid_from": "Valide à partir de",
+  "@valid_from": {
+    "description": "Étiquette pour le champ de la date de début."
+  },
+  "valid_until": "Valide jusqu'au",
+  "@valid_until": {
+    "description": "Étiquette pour le champ de la date de fin."
+  },
+  "usage_limit": "Limite d'utilisation",
+  "@usage_limit": {
+    "description": "Étiquette pour le champ de la limite d'utilisation."
+  },
+  "enter_limit": "Entrez la limite",
+  "@enter_limit": {
+    "description": "Texte d'espace réservé pour le champ de la limite d'utilisation."
+  },
+  "generate": "Générer",
+  "@generate": {
+    "description": "Texte sur le bouton pour générer le coupon."
+  },
+  "orders_limit": "Limite de commandes",
+  "@orders_limit": {
+    "description": "Étiquette du champ où l'utilisateur définit sa limite maximale de commandes."
+  },
+  "please_enter_limit": "Veuillez entrer la limite",
+  "@please_enter_limit": {
+    "description": "Message d'erreur affiché lorsque l'utilisateur n'entre pas de limite pour les commandes maximales."
+  },
+  "all_coupons": "Tous les Coupons",
+  "@all_coupons": {
+    "description": "Titre de la page affichant tous les coupons."
+  },
+  "no_coupon_found": "Aucun Coupon Trouvé",
+  "@no_coupon_found": {
+    "description": "Message affiché lorsqu'aucun coupon n'est trouvé."
+  },
+  "save": "Sauvegarder",
+  "@save": {
+    "description": "Étiquette pour le bouton de sauvegarde."
+  },
+  "sellerHomeOrdersOnWaiting": "Commandes en attente",
+  "@sellerHomeOrdersOnWaiting": {
+    "description": "Indique les commandes actuellement en attente ou en pause."
+  },
+  "sellerHomePendingOrders": "Commandes en attente",
+  "@sellerHomePendingOrders": {
+    "description": "Titre de la section des commandes en attente sur la page d'accueil du vendeur."
+  },
+  "sellerHomeFinishOrder": "Terminer la commande",
+  "@sellerHomeFinishOrder": {
+    "description": "Texte du bouton pour terminer une commande."
+  },
+  "sellerHomeDeclineOrder": "Refuser la commande",
+  "@sellerHomeDeclineOrder": {
+    "description": "Texte du bouton pour refuser une commande."
+  },
+  "sellerHomeCancelOrder": "Annuler la commande",
+  "@sellerHomeCancelOrder": {
+    "description": "Texte du bouton pour annuler une commande."
+  },
+  "sellerHomeAcceptOrder": "Accepter la commande",
+  "@sellerHomeAcceptOrder": {
+    "description": "Texte du bouton pour accepter une commande."
+  },
+  "sellerHomeCustomer": "Client",
+  "@sellerHomeCustomer": {
+    "description": "Étiquette pour la section du client dans les détails de la commande."
+  },
+  "sellerHomeContact": "Contact :",
+  "@sellerHomeContact": {
+    "description": "Étiquette pour les coordonnées du client dans les détails de la commande."
+  },
+  "sellerHomeAddress": "Adresse :",
+  "@sellerHomeAddress": {
+    "description": "Étiquette pour l'adresse du client dans les détails de la commande."
+  },
+  "sellerHomeItems": "Articles :",
+  "@sellerHomeItems": {
+    "description": "Étiquette pour les articles dans les détails de la commande."
+  },
+  "na_sellerHomeQuantity": "Quantité",
+  "@na_sellerHomeQuantity": {
+    "description": "Étiquette pour la quantité d'articles dans les détails de la commande."
+  },
+  "na_sellerHomePricePerItem": "Prix/Article",
+  "@na_sellerHomePricePerItem": {
+    "description": "Étiquette pour le prix par article dans les détails de la commande."
+  },
+  "na_personalDataManagement": "Gestion des données personnelles",
+  "@na_personalDataManagement": {
+    "description": "Texte du bouton pour accéder à la gestion des données personnelles."
+  },
+  "na_applicationTheme": "Gestion du thème de l'application",
+  "@na_applicationTheme": {
+    "description": "Texte du bouton pour accéder aux paramètres du thème de l'application."
+  },
+  "na_maximumOrderLimit": "Limite maximale de commande",
+  "@na_maximumOrderLimit": {
+    "description": "Texte du bouton pour définir la limite maximale de commande."
+  },
+  "na_privacy": "Confidentialité",
+  "@na_privacy": {
+    "description": "Texte du bouton pour accéder à la page des paramètres de confidentialité."
+  },
+  "na_faqs": "FAQ",
+  "@na_faqs": {
+    "description": "Texte du bouton pour accéder à la page des FAQ."
+  },
+  "na_help": "Aide",
+  "@na_help": {
+    "description": "Texte du bouton pour accéder à la section d'aide."
+  },
+  "na_pickImage": "Choisir une image",
+  "@na_pickImage": {
+    "description": "Titre du dialogue pour choisir une source d'image."
+  },
+  "na_pickCamera": "Caméra",
+  "@na_pickCamera": {
+    "description": "Texte de l'option pour sélectionner la caméra."
+  },
+  "na_pickGallery": "Galerie",
+  "@na_pickGallery": {
+    "description": "Texte de l'option pour sélectionner la galerie."
+  },
+  "na_mySettings": "Mes paramètres",
+  "@na_mySettings": {
+    "description": "Texte de l'en-tête pour la section des paramètres."
+  },
+  "na_professionalAccount": "Compte professionnel",
+  "@na_professionalAccount": {
+    "description": "En-tête pour la section du compte professionnel."
+  },
+  "na_professionalAccountInfo": "Demandez des informations pour gérer un compte professionnel",
+  "@na_professionalAccountInfo": {
+    "description": "Sous-titre pour la section du compte professionnel."
+  },
+  "na_dontHaveAccount": "Vous n'avez pas de compte ?",
+  "@na_dontHaveAccount": {
+    "description": "Texte de l'étiquette pour inviter les nouveaux utilisateurs à s'inscrire."
+  },
+  "na_registerHere": "S'inscrire ici",
+  "@na_registerHere": {
+    "description": "Texte du bouton pour accéder à la page d'inscription."
+  },
+  "explore_responsible": "Explorez les choses en tant\nque Professionnel !",
+  "@explore_responsible": {
+    "description": "Slogan sous la salutation sur la page d'accueil."
+  },
+  "item_name": "Nom de l'élément",
+  "@item_name": {
+    "description": "Étiquette pour le champ de saisie du nom de l'élément."
+  },
+  "item_price": "Prix de l'élément",
+  "@item_price": {
+    "description": "Étiquette pour le champ de saisie du prix de l'élément."
+  },
+  "select_food_category": "Sélectionner une catégorie d'aliment",
+  "@select_food_category": {
+    "description": "Étiquette pour le menu déroulant pour sélectionner la catégorie d'aliment."
+  },
+  "select_event": "Sélectionner un événement",
+  "@select_event": {
+    "description": "Étiquette pour le menu déroulant pour sélectionner un événement."
+  },
+  "alcoholic": "Alcoolisé",
+  "@alcoholic": {
+    "description": "Étiquette pour l'option alcoolisée."
+  },
+  "non_alcoholic": "Non alcoolisé",
+  "@non_alcoholic": {
+    "description": "Étiquette pour l'option non alcoolisée."
+  },
+  "item_description": "Description de l'élément",
+  "@item_description": {
+    "description": "Étiquette pour le champ de saisie de la description de l'élément."
+  },
+  "start_time": "Heure de début",
+  "@start_time": {
+    "description": "Libellé pour le champ de saisie de l'heure de début."
+  },
+  "end_time": "Heure de fin",
+  "@end_time": {
+    "description": "Libellé pour le champ de saisie de l'heure de fin."
+  },
+  "create_item": "Créer un article",
+  "@create_item": {
+    "description": "Texte du bouton pour créer un nouvel article."
+  },
+  "all_delivery_charges": "Tous les frais de livraison",
+  "@all_delivery_charges": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page de tous les frais de livraison."
+  },
+  "manage_events": "Gérer les événements",
+  "@manage_events": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page de gestion des événements."
+  },
+  "sales_report": "Rapport de ventes",
+  "@sales_report": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page du rapport de ventes."
+  },
+  "orders": "Commandes",
+  "@orders": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page des commandes."
+  },
+  "all_events": "Tous les événements",
+  "@all_events": {
+    "description": "Titre de la page pour tous les événements."
+  },
+  "seller_role": "Vendeur",
+  "@seller_role": {
+    "description": "Role of a seller account."
+  },
+  "event_details": "Détails de l'événement",
+  "@event_details": {
+    "description": "Titre de la page des détails de l'événement."
+  },
+  "edit_event": "Modifier l'événement",
+  "@edit_event": {
+    "description": "Texte du bouton pour modifier les détails de l'événement."
+  },
+  "add_bank_account": "Ajouter un compte bancaire",
+  "@add_bank_account": {
+    "description": "Titre pour la page d'ajout de compte bancaire."
+  },
+  "bank_name": "Nom de la banque",
+  "@bank_name": {
+    "description": "Étiquette pour le champ du nom de la banque."
+  },
+  "account_number": "Numéro de compte",
+  "@account_number": {
+    "description": "Étiquette pour le champ du numéro de compte."
+  },
+  "account_type": "Type de compte",
+  "@account_type": {
+    "description": "Étiquette pour le champ du type de compte."
+  },
+  "account_holder_name": "Nom du titulaire du compte",
+  "@account_holder_name": {
+    "description": "Étiquette pour le champ du nom du titulaire du compte."
+  },
+  "all_event_categories": "Toutes les catégories d'événements",
+  "@all_event_categories": {
+    "description": "Titre pour la page de toutes les catégories d'événements."
+  },
+  "order_list": "Liste des commandes",
+  "@order_list": {
+    "description": "Titre de la page de la liste des commandes."
+  },
+  "app_language": "Langue de l'application",
+  "@app_language": {
+    "description": "Titre pour la page de langue de l'application."
+  },
+  "select_language": "Sélectionner la langue",
+  "@select_language": {
+    "description": "Texte pour sélectionner une langue."
+  },
+  "update_item": "Mettre à jour l'article",
+  "@update_item": {
+    "description": "Text for updating an item."
+  },
+  "manage_food_items": "Gérer les articles alimentaires",
+  "@manage_food_items": {
+    "description": "Titre pour la page de gestion des articles alimentaires."
+  },
+  "edit_item": "Modifier l'article",
+  "@edit_item": {
+    "description": "Text for editing an item."
+  },
+  "email_address": "Adresse e-mail",
+  "@email_address": {
+    "description": "Étiquette pour le champ de l'adresse e-mail."
+  },
+  "select_event_catagory": "Sélectionnez une catégorie d'événement",
+  "@select_event_catagory": {
+    "description": "Message pour sélectionner une catégorie d'événement."
+  },
+  "add_events": "Ajouter des événements",
+  "@add_events": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page d'ajout d'événements."
+  },
+  "add_seller_bank_account": "Ajouter un compte bancaire de vendeur",
+  "@add_seller_bank_account": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page d'ajout d'un compte bancaire de vendeur."
+  },
+  "change_password": "Changer le mot de passe",
+  "@change_password": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page de changement de mot de passe."
+  },
+  "add_event_category": "Ajouter une catégorie d'événement",
+  "@add_event_category": {
+    "description": "Étiquette pour l'élément de menu qui mène à la page d'ajout de catégorie d'événement."
+  },
+  "item_created_successfully": "Article créé avec succès",
+  "@item_created_successfully": {
+    "description": "Message affiché lorsque l'article est créé avec succès."
+  },
+  "congratulations": "Félicitations",
+  "@congratulations": {
+    "description": "Message affiché pour féliciter l'utilisateur pour la création d'un article."
+  },
+  "item_created_message": "Vous avez créé un nouvel article avec succès",
+  "@item_created_message": {
+    "description": "Message affiché après la confirmation de la création de l'article."
+  },
+  "view_item": "Voir l'article",
+  "@view_item": {
+    "description": "Texte du bouton pour voir l'article créé."
+  },
+  "manage_catagory": "Gérer la catégorie",
+  "@manage_catagory": {
+    "description": "Libellé pour gérer la catégorie"
+  },
+  "add_item": "Ajouter un article",
+  "@add_item": {
+    "description": "Texte du bouton pour ajouter un article"
+  },
+  "switch_to_seller_mode": "Passer en mode vendeur",
+  "@switch_to_seller_mode": {
+    "description": "Étiquette pour passer en mode vendeur."
+  },
+  "todays_revenue": "Revenu du jour",
+  "@todays_revenue": {
+    "description": "Libellé pour afficher le revenu du jour."
+  },
+  "todays_registrations": "Inscriptions du jour",
+  "@todays_registrations": {
+    "description": "Étiquette pour afficher le nombre d'inscriptions de la journée."
+  },
+  "revenue_this_week": "Revenu cette semaine",
+  "@revenue_this_week": {
+    "description": "Titre pour afficher les données de revenu de la semaine en cours."
+  },
+  "registrations_this_week": "Inscriptions cette semaine",
+  "@registrations_this_week": {
+    "description": "Titre pour afficher les données d'inscriptions de la semaine en cours."
+  },
+  "switch_toggle_hint": "Sélectionner un événement",
+  "@switch_toggle_hint": {
+    "description": "Texte d'indice pour le champ de saisie déroulant pour sélectionner un événement."
+  },
+  "support_requests": "Demandes de support",
+  "@support_requests": {
+    "description": "Titre pour la page des demandes de support."
+  },
+  "refund_order": "Rembourser la commande",
+  "@refund_order": {
+    "description": "Texte du bouton pour initier un remboursement."
+  },
+  "enter_message_hint": "Entrez le message...",
+  "@enter_message_hint": {
+    "description": "Texte d'indice pour le champ de saisie du message."
+  },
+  "what_you_want_to_refund": "Que voulez-vous rembourser ?",
+  "@what_you_want_to_refund": {
+    "description": "Titre du dialogue de remboursement demandant ce que l'utilisateur souhaite rembourser."
+  },
+  "cancel_button": "Annuler",
+  "@cancel_button": {
+    "description": "Texte du bouton pour annuler dans le dialogue de remboursement."
+  },
+  "refund_item_button": "Rembourser l'article",
+  "@refund_item_button": {
+    "description": "Texte du bouton pour procéder au remboursement dans le dialogue de remboursement."
+  },
+  "na_disconnect": "Se déconnecter",
+  "@na_disconnect": {
+    "description": "Texte du bouton pour se déconnecter du compte."
+  },
+  "na_manageAccount": "Gérer le compte",
+  "@na_manageAccount": {
+    "description": "Texte de l'élément de menu pour accéder à la gestion du compte."
+  },
+  "na_modifyEstablishment": "Modifier l'établissement",
+  "@na_modifyEstablishment": {
+    "description": "Texte de l'élément de menu pour modifier les détails de l'établissement."
+  },
+  "na_manageEvents": "Gérer les événements",
+  "@na_manageEvents": {
+    "description": "Texte de l'élément de menu pour gérer les événements."
+  },
+  "na_salesReport": "Rapport des ventes",
+  "@na_salesReport": {
+    "description": "Texte de l'élément de menu pour afficher le rapport des ventes."
+  },
+  "na_settings": "Paramètres",
+  "@na_settings": {
+    "description": "Texte de l'élément de menu pour accéder aux paramètres de l'application."
+  },
+  "na_paymentMethods": "Méthodes de paiement",
+  "@na_paymentMethods": {
+    "description": "Texte de l'élément de menu pour gérer les méthodes de paiement."
+  },
+  "na_transferMoney": "Transférer de l'argent",
+  "@na_transferMoney": {
+    "description": "Texte de l'élément de menu pour transférer de l'argent."
+  },
+  "na_orders": "Commandes",
+  "@na_orders": {
+    "description": "Texte de l'élément de menu pour afficher les commandes."
+  },
+  "na_addEvents": "Ajouter des événements",
+  "@na_addEvents": {
+    "description": "Texte de l'élément de menu pour ajouter de nouveaux événements."
+  },
+  "na_sellerAccounts": "Comptes de vendeur",
+  "@na_sellerAccounts": {
+    "description": "Titre de la section pour les comptes de vendeur dans la page de gestion des comptes."
+  },
+  "na_responsibleAccounts": "Comptes responsables",
+  "@na_responsibleAccounts": {
+    "description": "Titre de la section pour les comptes responsables dans la page de gestion des comptes."
+  },
+  "na_addSellerAccount": "Ajouter un compte vendeur",
+  "@na_addSellerAccount": {
+    "description": "Texte du bouton pour ajouter un nouveau compte vendeur."
+  },
+  "na_createSellerAccount": "Créer un compte vendeur",
+  "@na_createSellerAccount": {
+    "description": "Titre de la page où un compte vendeur est créé."
+  },
+  "na_askInformationToManageSellerAccount": "Demander des informations pour gérer un compte vendeur",
+  "@na_askInformationToManageSellerAccount": {
+    "description": "Description de l'objectif du formulaire pour créer un compte vendeur."
+  },
+  "na_attributedEvent": "Événement attribué",
+  "@na_attributedEvent": {
+    "description": "Étiquette pour le champ d'événement attribué dans le formulaire de compte vendeur."
+  },
+  "na_sellerAccountCreated": "Le compte vendeur a été créé",
+  "@na_sellerAccountCreated": {
+    "description": "Message affiché après la création réussie d'un compte vendeur."
+  },
+  "na_createAccount": "Créer un compte",
+  "@na_createAccount": {
+    "description": "Texte sur le bouton pour créer un nouveau compte vendeur."
+  },
+  "na_editSellerProfile": "Modifier le profil du vendeur",
+  "@na_editSellerProfile": {
+    "description": "Titre pour la page de modification du profil du vendeur."
+  },
+  "na_saveChanges": "Enregistrer les modifications",
+  "@na_saveChanges": {
+    "description": "Texte du bouton pour enregistrer les modifications apportées au profil du vendeur."
+  },
+  "na_totalAmount": "Montant total",
+  "@na_totalAmount": {
+    "description": "Étiquette pour le montant total des ventes."
+  },
+  "na_withdraw": "Retirer",
+  "@na_withdraw": {
+    "description": "Texte du bouton pour retirer le montant total."
+  },
+  "na_itemsSold": "Articles vendus",
+  "@na_itemsSold": {
+    "description": "Étiquette pour la section affichant les articles vendus."
+  },
+  "na_byCategory": "Par catégorie",
+  "@na_byCategory": {
+    "description": "Étiquette pour la répartition des ventes par catégorie."
+  },
+  "na_mostSoldItem": "Article le plus vendu",
+  "@na_mostSoldItem": {
+    "description": "Étiquette pour la section de l'article le plus vendu."
+  },
+  "na_sellersActivity": "Activité du vendeur",
+  "@na_sellersActivity": {
+    "description": "Étiquette pour la section de l'activité du vendeur."
+  },
+  "na_topProducts": "Produits phares",
+  "@na_topProducts": {
+    "description": "Étiquette de section pour les produits phares dans le rapport des ventes."
+  },
+  "na_addEvent": "Ajouter un événement",
+  "@na_addEvent": {
+    "description": "Titre pour la page où un nouvel événement peut être ajouté."
+  },
+  "na_uploadPhotos": "Télécharger des photos",
+  "@na_uploadPhotos": {
+    "description": "Étiquette pour télécharger des photos de l'événement."
+  },
+  "na_eventName": "Nom de l'événement",
+  "@na_eventName": {
+    "description": "Étiquette pour le champ de saisie du nom de l'événement."
+  },
+  "na_eventCategory": "Catégorie",
+  "@na_eventCategory": {
+    "description": "Étiquette pour le champ de saisie de la catégorie de l'événement."
+  },
+  "na_eventAddress": "Adresse",
+  "@na_eventAddress": {
+    "description": "Étiquette pour le champ de saisie de l'adresse de l'événement."
+  },
+  "na_openingDays": "Jours d'ouverture",
+  "@na_openingDays": {
+    "description": "Étiquette pour le champ de saisie des jours d'ouverture de l'événement."
+  },
+  "na_eventDescription": "Description",
+  "@na_eventDescription": {
+    "description": "Étiquette pour le champ de saisie de la description de l'événement."
+  },
+  "na_createEvent": "Créer un événement",
+  "@na_createEvent": {
+    "description": "Texte du bouton pour créer un nouvel événement."
+  },
+  "na_addPaymentMethod": "Ajouter une méthode de paiement",
+  "@na_addPaymentMethod": {
+    "description": "Titre pour la page où l'utilisateur peut ajouter une méthode de paiement."
+  },
+  "na_noPaymentFound": "Aucun paiement trouvé",
+  "@na_noPaymentFound": {
+    "description": "Message affiché lorsqu'aucune méthode de paiement n'est trouvée."
+  },
+  "na_addAndEditPayments": "Vous pouvez ajouter et modifier les paiements lors du passage en caisse",
+  "@na_addAndEditPayments": {
+    "description": "Texte d'instruction informant l'utilisateur qu'il peut ajouter ou modifier les méthodes de paiement lors du passage en caisse."
+  },
+  "na_addPaymentMethodButton": "Ajouter une méthode de paiement",
+  "@na_addPaymentMethodButton": {
+    "description": "Texte du bouton pour ajouter une méthode de paiement."
+  },
+  "na_nameOnCard": "Nom sur la carte",
+  "@na_nameOnCard": {
+    "description": "Étiquette pour le champ du nom sur la carte de paiement."
+  },
+  "na_cardNumber": "Numéro de carte",
+  "@na_cardNumber": {
+    "description": "Étiquette pour le champ du numéro de carte."
+  },
+  "na_cvc": "CVC",
+  "@na_cvc": {
+    "description": "Étiquette pour le champ CVC sur la carte de paiement."
+  },
+  "na_addNow": "Ajouter maintenant",
+  "@na_addNow": {
+    "description": "Texte du bouton pour ajouter la méthode de paiement."
+  },
+  "na_cvcInfo": "3 ou 4 chiffres généralement trouvés sur la bande de signature",
+  "@na_cvcInfo": {
+    "description": "Description du champ CVC."
+  },
+  "na_paymentMethodAdded": "Méthode de paiement ajoutée avec succès",
+  "@na_paymentMethodAdded": {
+    "description": "Message affiché lorsque la méthode de paiement est ajoutée avec succès."
+  },
+  "na_moneyTransfer": "Transfert d'argent",
+  "@na_moneyTransfer": {
+    "description": "Titre pour la page de transfert d'argent."
+  },
+  "na_accountNumber": "Numéro de compte",
+  "@na_accountNumber": {
+    "description": "Étiquette pour le champ du numéro de compte."
+  },
+  "na_selectCard": "Sélectionner une carte",
+  "@na_selectCard": {
+    "description": "Titre pour la page où l'utilisateur sélectionne une carte."
+  },
+  "na_enterAmount": "Entrer le montant",
+  "@na_enterAmount": {
+    "description": "Étiquette pour le champ du montant dans la page de sélection de la carte."
+  },
+  "na_descriptionText": "Veuillez entrer le montant du transfert d'argent dans le champ ci-dessous.",
+  "@na_descriptionText": {
+    "description": "Texte de description incitant l'utilisateur à entrer le montant pour le transfert d'argent."
+  },
+  "na_next": "Suivant",
+  "@na_next": {
+    "description": "Texte du bouton pour passer à l'étape suivante."
+  },
+  "na_selectBank": "Sélectionner une banque",
+  "@na_selectBank": {
+    "description": "Titre pour la page où l'utilisateur sélectionne une banque pour le transfert d'argent."
+  },
+  "na_selectBankDescription": "Veuillez sélectionner une banque à partir de laquelle vous souhaitez effectuer le transfert d'argent.",
+  "@na_selectBankDescription": {
+    "description": "Texte de description incitant l'utilisateur à sélectionner une banque pour transférer de l'argent."
+  },
+  "na_verifyNumber": "Vérifiez votre numéro",
+  "@na_verifyNumber": {
+    "description": "Titre pour la page où l'utilisateur vérifie son numéro de téléphone."
+  },
+  "na_verifyPhoneNumber": "Veuillez vérifier votre\nnuméro de téléphone",
+  "@na_verifyPhoneNumber": {
+    "description": "Description incitant l'utilisateur à vérifier son numéro de téléphone."
+  },
+  "na_enterVerificationCode": "Entrez le code de vérification (5 chiffres)",
+  "@na_enterVerificationCode": {
+    "description": "Étiquette pour le champ où l'utilisateur entre le code de vérification à 5 chiffres."
+  },
+  "na_topUpSimCard": "Recharger la carte SIM",
+  "@na_topUpSimCard": {
+    "description": "Titre pour la page où l'utilisateur recharge sa carte SIM."
+  },
+  "na_mobilePhoneNumber": "Numéro de téléphone mobile",
+  "@na_mobilePhoneNumber": {
+    "description": "Étiquette pour le champ du numéro de téléphone mobile."
+  },
+  "na_enterMobileNumber": "Veuillez entrer le numéro de carte SIM dans le champ ci-dessous.",
+  "@na_enterMobileNumber": {
+    "description": "Description incitant l'utilisateur à entrer le numéro de téléphone mobile."
+  },
+  "na_mobileNumberValidation": "Veuillez entrer votre numéro de téléphone mobile",
+  "@na_mobileNumberValidation": {
+    "description": "Message de validation lorsque le champ du numéro de téléphone mobile est vide."
+  },
+  "na_topUpAmount": "Montant de la recharge",
+  "@na_topUpAmount": {
+    "description": "Titre pour la page où l'utilisateur entre le montant de la recharge."
+  },
+  "na_topUpAmountDescription": "Veuillez entrer le montant de la recharge du numéro de carte SIM dans le champ ci-dessous.",
+  "@na_topUpAmountDescription": {
+    "description": "Description incitant l'utilisateur à entrer le montant de la recharge."
+  },
+  "na_selectSimCardService": "Veuillez sélectionner un service de carte SIM sur lequel vous souhaitez effectuer la recharge.",
+  "@na_selectSimCardService": {
+    "description": "Description incitant l'utilisateur à sélectionner un service de carte SIM pour la recharge."
+  },
+  "na_selectSimError": "Veuillez sélectionner une carte SIM",
+  "@na_selectSimError": {
+    "description": "Message d'erreur affiché lorsque l'utilisateur tente de continuer sans sélectionner une carte SIM."
+  },
+  "na_addCategory": "Ajouter une catégorie",
+  "@na_addCategory": {
+    "description": "Titre pour la page où l'utilisateur peut ajouter une nouvelle catégorie."
+  },
+  "na_uploadIcon": "Télécharger l'icône",
+  "@na_uploadIcon": {
+    "description": "Texte incitant l'utilisateur à télécharger une icône pour la catégorie."
+  },
+  "na_categoryName": "Nom de la catégorie",
+  "@na_categoryName": {
+    "description": "Étiquette pour le champ de saisie du nom de la catégorie."
+  },
+  "na_categoryNameValidation": "Veuillez entrer un nom de catégorie",
+  "@na_categoryNameValidation": {
+    "description": "Message de validation lorsque le champ du nom de la catégorie est vide."
+  },
+  "na_categoryAdded": "Catégorie ajoutée avec succès",
+  "@na_categoryAdded": {
+    "description": "Message affiché lorsqu'une catégorie est ajoutée avec succès."
+  },
+  "na_selectCategoryImage": "Veuillez sélectionner une image pour la catégorie",
+  "@na_selectCategoryImage": {
+    "description": "Invite demandant à l'utilisateur de sélectionner une image pour la catégorie."
+  },
+  "na_createItem": "Créer un article",
+  "@na_createItem": {
+    "description": "Titre pour la page où l'utilisateur crée un nouvel article."
+  },
+  "na_itemName": "Nom de l'article",
+  "@na_itemName": {
+    "description": "Étiquette pour le champ de saisie du nom de l'article."
+  },
+  "na_itemPrice": "Prix de l'article",
+  "@na_itemPrice": {
+    "description": "Étiquette pour le champ de saisie du prix de l'article."
+  },
+  "na_itemCategory": "Catégorie",
+  "@na_itemCategory": {
+    "description": "Étiquette pour le champ où l'utilisateur sélectionne la catégorie de l'article."
+  },
+  "na_alcoholType": "Type d'alcool ou non ?",
+  "@na_alcoholType": {
+    "description": "Étiquette pour le champ où l'utilisateur précise si l'article contient de l'alcool."
+  },
+  "na_itemDescription": "Description de l'article",
+  "@na_itemDescription": {
+    "description": "Étiquette pour le champ de saisie de la description de l'article."
+  },
+  "na_itemTimings": "Horaires",
+  "@na_itemTimings": {
+    "description": "Étiquette pour le champ où l'utilisateur spécifie les horaires de l'article."
+  }
+}
