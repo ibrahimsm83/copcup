@@ -468,14 +468,17 @@ class _UserAllOrderPageState extends State<UserAllOrderPage> {
                             Row(
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
-                                Text(
-                                  order.establishmentName,
-                                  style: textTheme(context)
-                                      .bodyMedium
-                                      ?.copyWith(
-                                          color: colorScheme(context).onSurface,
-                                          fontWeight: FontWeight.w700,
-                                          fontSize: 18),
+                                Flexible(
+                                  child: Text(
+                                    // order.establishmentName,
+                                    order.orderItems.first.foodItem!.name??"",
+                                    style: textTheme(context)
+                                        .bodyMedium
+                                        ?.copyWith(
+                                            color: colorScheme(context).onSurface,
+                                            fontWeight: FontWeight.w700,
+                                            fontSize: 18),
+                                  ),
                                 ),
                                 CustomContainer(
                                     borderRadius: 100,

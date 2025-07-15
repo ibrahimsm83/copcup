@@ -97,7 +97,10 @@ class Transaction {
   final double stripeFee;
   final double adminFee;
   final double netAmount;
-  final User seller; // Renamed from 'user' to 'seller'
+  final User? seller; // Renamed from 'user' to 'seller'
+  // final User seller; // Renamed from 'user' to 'seller'
+  final int orderId;
+  final String foodItemImage;
 
   Transaction({
     required this.id,
@@ -111,7 +114,9 @@ class Transaction {
     required this.stripeFee,
     required this.adminFee,
     required this.netAmount,
-    required this.seller,
+    this.seller,
+    required this.orderId,
+    required this.foodItemImage,
   });
 
   factory Transaction.fromJson(Map<String, dynamic> json) {
@@ -127,7 +132,9 @@ class Transaction {
       stripeFee: double.tryParse(json['stripe_fee'].toString()) ?? 0.0,
       adminFee: double.tryParse(json['admin_fee'].toString()) ?? 0.0,
       netAmount: double.tryParse(json['net_amount'].toString()) ?? 0.0,
-      seller: User.fromJson(json['seller']),
+      seller: User.fromJson(json['seller']??{}),
+      orderId: json['order_id'] ?? 0,
+      foodItemImage: json['food_item_image'] ?? '',
     );
   }
 }

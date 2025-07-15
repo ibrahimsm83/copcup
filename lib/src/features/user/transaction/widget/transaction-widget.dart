@@ -57,6 +57,8 @@ class _TransactionWidgetState extends State<TransactionWidget> {
           Expanded(
             child: Consumer<TranscationController>(
                 builder: (context, transaction, child) {
+
+                  print("ibrahim---33--${transaction.userTransactionList}");
               if (transaction.isUserTransactionLoading) {
                 return Center(
                   child: CircularProgressIndicator(),
@@ -76,11 +78,11 @@ class _TransactionWidgetState extends State<TransactionWidget> {
                 itemBuilder: (context, index) {
                   final transaction = userTransaction[index];
                   return TransactionCard(
-                    name: transaction.seller.name,
+                    name:transaction.seller?.name??"",
                     amount: priceFormated(transaction.amount) + ' €',
                     date: transaction.createdAt,
-                    imageUrl:
-                        'https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+                    imageUrl:transaction.foodItemImage,
+
                   );
                 },
               );

@@ -20,7 +20,8 @@ class ApiEndpoints {
 
   /// ############################# [food catgory] #############################
   static const String createFoodCatagory = '$baseUrl/create-food-category';
-  static const String allFoodCategory = '$baseUrl/all-food-categories';
+  static const String allFoodCategory = '$baseUrl/seller-food-categories';
+  // static const String allFoodCategory = '$baseUrl/all-food-categories';
   static const String responsibleFoodCategory =
       '$baseUrl/professional-food-categories';
 
@@ -29,7 +30,8 @@ class ApiEndpoints {
 
   /// ############################# [food Item] #############################
   static const String createFoodItem = '$baseUrl/create-food-item';
-  static const String allFoodItem = '$baseUrl/all-food-items';
+  static const String allFoodItem = '$baseUrl/seller-food-items';
+  // static const String allFoodItem = '$baseUrl/all-food-items';
   static const String professionalFoodItem = '$baseUrl/professional-food-items';
 
   static const String professionalFoodcategory =

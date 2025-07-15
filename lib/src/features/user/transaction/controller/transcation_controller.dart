@@ -14,7 +14,9 @@ class TranscationController extends ChangeNotifier {
   Future<void> getUserTransactions() async {
     _isUserTransactionLoading = true;
     notifyListeners();
+    print("----ds-fs-df-asd-fa-sd-f---1");
     _userTransactionList = await transactionRepository.getUserTransactions();
+    print("----ds-fs-df-asd-fa-sd-f--2${_userTransactionList}");
     _isUserTransactionLoading = false;
     notifyListeners();
     print(_userTransactionList);

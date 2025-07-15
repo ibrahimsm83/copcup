@@ -22,8 +22,21 @@ class TransactionRepository {
       if (response.statusCode == 200) {
         final responseBody = jsonDecode(response.body);
         final List data = responseBody['transactions'];
+        print("ibrahim--1---$data");
+        // print("ibrahim---2--$data");
 
-        return data.map((e) => Transaction.fromJson(e)).toList();
+        // return data.map((e) => Transaction.fromJson(e)).toList();
+        // return data.map((e) {
+        //   print('Parsing transaction: $e');
+        //   return Transaction.fromJson(e);
+        // }).toList();
+        final List<Transaction> tranList = [];
+        for (int i = 0; i < data.length; i++) {
+          tranList.add(Transaction.fromJson(data[i]));
+        }
+        print("tranList ${tranList.length} ");
+        return tranList;
+        // return data.map((e) => Transaction.fromJson(e)).toList();
       } else {
         log('Failed to fetch transactions: ${response.statusCode}');
         return [];
