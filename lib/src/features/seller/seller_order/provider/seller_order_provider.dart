@@ -42,6 +42,7 @@ class SellerOrderProvider with ChangeNotifier {
   List<OrderModel> get allUserOrders => _allUserOrders;
   bool _isAllUserOrdersLoading = false;
   bool get isAllUserOrdersLoading => _isAllUserOrdersLoading;
+
   Future<void> getUserAllOrders({
     required BuildContext context,
   }) async {
@@ -182,7 +183,8 @@ class SellerOrderProvider with ChangeNotifier {
       (failure) => showSnackbar(message: failure, isError: true),
       (success) {
         showSnackbar(message: success);
-        Navigator.pop(context);
+        getAllOrders(context: context);
+        //Navigator.pop(context);
       },
     );
 

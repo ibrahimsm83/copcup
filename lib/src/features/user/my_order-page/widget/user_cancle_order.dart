@@ -48,7 +48,9 @@ class _UserCancleOrderState extends State<UserCancleOrder> {
           }
           final data = provider.allUserOrders
               .where(
-                (order) => order.status == "declined",
+                (order) {
+                 return order.status == "declined"||order.status=='canceled';
+                }
               )
               .toList();
 
@@ -84,14 +86,6 @@ class _UserCancleOrderState extends State<UserCancleOrder> {
                         padding: const EdgeInsets.only(top: 5),
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(8),
-                          // child: Image.network(
-                          //   'https://images.slurrp.com/prod/recipe_images/transcribe/main%20course/shahi-chicken-korma.webp?impolicy=slurrp-20210601&width=1200&height=675',
-
-                          //   // '${ApiEndpoints.baseImageUrl}${order.orderItems.first.foodItem!.image!}',
-                          //   width: 85,
-                          //   height: 75,
-                          //   fit: BoxFit.cover,
-                          // ),
                           child: CachedNetworkImage(
                             imageUrl: order.orderItems.isNotEmpty
                                 ? Uri.parse(ApiEndpoints.baseImageUrl)

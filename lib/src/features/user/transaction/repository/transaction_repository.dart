@@ -22,8 +22,6 @@ class TransactionRepository {
       if (response.statusCode == 200) {
         final responseBody = jsonDecode(response.body);
         final List data = responseBody['transactions'];
-        print("ibrahim--1---$data");
-        // print("ibrahim---2--$data");
 
         // return data.map((e) => Transaction.fromJson(e)).toList();
         // return data.map((e) {

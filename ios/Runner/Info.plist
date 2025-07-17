@@ -41,6 +41,11 @@
     <key>NSLocationAlwaysUsageDescription</key>
     <string>This app needs access to your location at all times.</string>
 
+    <key>NSCameraUsageDescription</key>
+    <string>Scan your card to add it automatically</string>
+    <key>NSCameraUsageDescription</key>
+    <string>To scan cards</string>
+
 	<key>NSCameraUsageDescription</key>
 	<string>This app needs camera access to scan QR codes</string>
 	<key>NSLocalNetworkUsageDescription</key>

@@ -26,6 +26,7 @@ import 'package:shimmer/shimmer.dart';
 
 class UserAllOrderPage extends StatefulWidget {
   final int? userID;
+
   const UserAllOrderPage({super.key, this.userID = null});
 
   @override
@@ -48,6 +49,11 @@ class _UserAllOrderPageState extends State<UserAllOrderPage> {
   Future<void> getUserAllOrders() async {
     final provider = Provider.of<SellerOrderProvider>(context, listen: false);
     await provider.getUserAllOrders(context: context);
+  }
+
+  Future<void> cancelOrder(int Id) async {
+    final provider = Provider.of<SellerOrderProvider>(context, listen: false);
+    await provider.cancelOrder(context: context, orderId: Id);
   }
 
   @override
@@ -335,8 +341,10 @@ class _UserAllOrderPageState extends State<UserAllOrderPage> {
           //     .toList();
           final data = provider.allUserOrders.where((order) {
             final status = (order.status ?? '').toLowerCase();
+            print("ibrahim $status");
             return status != 'completed' &&
-                status != 'pending' &&
+                status != 'canceled' &&
+                // status != 'pending' &&
                 status != 'declined';
           }).toList();
 
@@ -471,11 +479,12 @@ class _UserAllOrderPageState extends State<UserAllOrderPage> {
                                 Flexible(
                                   child: Text(
                                     // order.establishmentName,
-                                    order.orderItems.first.foodItem!.name??"",
+                                    order.orderItems.first.foodItem!.name ?? "",
                                     style: textTheme(context)
                                         .bodyMedium
                                         ?.copyWith(
-                                            color: colorScheme(context).onSurface,
+                                            color:
+                                                colorScheme(context).onSurface,
                                             fontWeight: FontWeight.w700,
                                             fontSize: 18),
                                   ),
@@ -546,41 +555,80 @@ class _UserAllOrderPageState extends State<UserAllOrderPage> {
                             ),
                             Align(
                               alignment: Alignment.centerRight,
-                              child: Consumer<ChatController>(
-                                builder: (context, value, child) {
-                                  return GestureDetector(
-                                    onTap: () {
-                                      log('--------user id ${StaticData.userId}\n--------------${order.sellerId}');
-                                      value.createChatRoom(
-                                        onSuccess: (val) {
-                                          context.pushNamed(
-                                            AppRoute.userChat,
-                                            extra: {
-                                              'id': val.id,
-                                              'reciverName':
-                                                  '${order.sellerName}'
+                              child: Row(
+                                mainAxisAlignment: MainAxisAlignment.end,
+                                children: [
+                                  if ((order.status ?? '').toLowerCase() ==
+                                      'pending')
+                                    IconButton(
+                                      icon:
+                                          Icon(Icons.delete, color: Colors.red),
+                                      onPressed: () async {
+                                        bool confirm = await showDialog(
+                                          context: context,
+                                          builder: (ctx) => AlertDialog(
+                                            title: Text('Confirm Cancel'),
+                                            content: Text(
+                                                'Are you sure you want to cancel this order?'),
+                                            actions: [
+                                              TextButton(
+                                                onPressed: () =>
+                                                    Navigator.of(ctx)
+                                                        .pop(false),
+                                                child: Text('NO'),
+                                              ),
+                                              TextButton(
+                                                onPressed: () =>
+                                                    Navigator.of(ctx).pop(true),
+                                                child: Text('YES'),
+                                              ),
+                                            ],
+                                          ),
+                                        );
+
+                                        if (confirm) {
+                                          await cancelOrder(order.id);
+                                          // deleteOrder(order.id); // function defined below
+                                        }
+                                      }, //=> //deleteOrder(order.id),
+                                    ),
+                                  Consumer<ChatController>(
+                                    builder: (context, value, child) {
+                                      return GestureDetector(
+                                        onTap: () {
+                                          log('--------user id ${StaticData.userId}\n--------------${order.sellerId}');
+                                          value.createChatRoom(
+                                            onSuccess: (val) {
+                                              context.pushNamed(
+                                                AppRoute.userChat,
+                                                extra: {
+                                                  'id': val.id,
+                                                  'reciverName':
+                                                      '${order.sellerName}'
+                                                },
+                                              );
                                             },
+                                            name: order.sellerName,
+                                            members: [
+                                              StaticData.userId,
+                                              order.sellerId
+                                            ],
+                                            type: 'private',
+                                            context: context,
                                           );
                                         },
-                                        name: order.sellerName,
-                                        members: [
-                                          StaticData.userId,
-                                          order.sellerId
-                                        ],
-                                        type: 'private',
-                                        context: context,
+                                        child: Padding(
+                                          padding: const EdgeInsets.symmetric(
+                                              horizontal: 0.0),
+                                          child: Image.asset(
+                                            AppImages.messageImage,
+                                            height: 25,
+                                          ),
+                                        ),
                                       );
                                     },
-                                    child: Padding(
-                                      padding: const EdgeInsets.symmetric(
-                                          horizontal: 0.0),
-                                      child: Image.asset(
-                                        AppImages.messageImage,
-                                        height: 25,
-                                      ),
-                                    ),
-                                  );
-                                },
+                                  ),
+                                ],
                               ),
                             ),
                           ],
